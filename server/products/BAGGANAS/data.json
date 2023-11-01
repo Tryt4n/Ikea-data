@@ -4,84 +4,102 @@
   "products": [
     {
       "name": "Uchwyt",
-      "description": "Gałki i uchwyty są jak wisienka na torcie - mały szczegół, który robi wielką różnicę. Seria BAGGANÄS oferuje ponadczasowy, szlachetny wygląd, który pasuje zarówno do domów w nowoczesnym, jak i tradycyjnym stylu.",
-      "price": {
-        "decimal": 25,
-        "quantity": 2
+      "variants": ["czarny", "kolor mosiądzu", "stal nierdz"],
+      "description": {
+        "variant_1": "Gałki i uchwyty są jak wisienka na torcie - mały szczegół, który robi wielką różnicę. Seria BAGGANÄS oferuje ponadczasowy, szlachetny wygląd, który pasuje zarówno do domów w nowoczesnym, jak i tradycyjnym stylu.",
+        "variant_2": "Gałki i uchwyty są jak wisienka na torcie - mały szczegół, który robi wielką różnicę. Seria BAGGANÄS oferuje ponadczasowy, szlachetny wygląd, który pasuje zarówno do domów w nowoczesnym, jak i tradycyjnym stylu.",
+        "variant_3": "Gałki i uchwyty są jak wisienka na torcie - mały szczegół, który robi wielką różnicę. Seria BAGGANÄS oferuje ponadczasowy, szlachetny wygląd, który pasuje zarówno do domów w nowoczesnym, jak i tradycyjnym stylu."
       },
       "rating": {
         "rate": 5,
         "quantity": 119
       },
-      "topSeller": true,
-      "thumbnails": {
-        "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_1/thumbnail/bagganaes-uchwyt-czarny__0754228_pe747827_s5.avif",
-        "variant_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_2/thumbnail/bagganaes-uchwyt-kolor-mosiadzu__0754229_pe747828_s5.avif",
-        "variant_3": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_3/thumbnail/bagganaes-uchwyt-stal-nierdz__0754230_pe747829_s5.avif"
-      },
-      "variants": [
+      "sizes": [
         {
-          "productNumber": "803.384.13",
-          "name": "Czarny",
-          "size": "143mm",
-          "images": {
-            "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_1/thumbnail/bagganaes-uchwyt-czarny__0754228_pe747827_s5.avif",
-            "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_1/hover/bagganaes-uchwyt-czarny__0718663_pe731611_s5.avif",
-            "image_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_1/image_1/bagganaes-uchwyt-czarny__0532766_pe648261_s5.avif",
-            "image_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_1/image_2/bagganaes-uchwyt-czarny__0870047_pe719923_s5.avif"
-          }
+          "size": "143 mm",
+          "price": {
+            "decimal": 25,
+            "quantity": 2
+          },
+          "thumbnails": {
+            "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_1/thumbnail/bagganaes-uchwyt-czarny__0754228_pe747827_s5.avif",
+            "variant_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_2/thumbnail/bagganaes-uchwyt-kolor-mosiadzu__0754229_pe747828_s5.avif",
+            "variant_3": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_3/thumbnail/bagganaes-uchwyt-stal-nierdz__0754230_pe747829_s5.avif"
+          },
+          "variants": [
+            {
+              "productNumber": "803.384.13",
+              "variant": "czarny",
+              "topSeller": true,
+              "images": {
+                "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_1/thumbnail/bagganaes-uchwyt-czarny__0754228_pe747827_s5.avif",
+                "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_1/hover/bagganaes-uchwyt-czarny__0718663_pe731611_s5.avif",
+                "image_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_1/image_1/bagganaes-uchwyt-czarny__0532766_pe648261_s5.avif",
+                "image_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_1/image_2/bagganaes-uchwyt-czarny__0870047_pe719923_s5.avif"
+              }
+            },
+            {
+              "productNumber": "003.384.07",
+              "variant": "kolor mosiądzu",
+              "images": {
+                "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_2/thumbnail/bagganaes-uchwyt-kolor-mosiadzu__0754229_pe747828_s5.avif",
+                "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_2/hover/bagganaes-uchwyt-kolor-mosiadzu__0718632_pe731629_s5.avif",
+                "image_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_2/image_1/bagganaes-uchwyt-kolor-mosiadzu__0532767_pe648262_s5.avif",
+                "image_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_2/image_2/bagganaes-uchwyt-kolor-mosiadzu__0872053_pe719900_s5.avif"
+              }
+            },
+            {
+              "productNumber": "703.384.18",
+              "variant": "stal nierdz",
+              "images": {
+                "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_3/thumbnail/bagganaes-uchwyt-stal-nierdz__0754230_pe747829_s5.avif",
+                "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_3/hover/bagganaes-uchwyt-stal-nierdz__0718658_pe731608_s5.avif",
+                "image_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_3/image_1/bagganaes-uchwyt-stal-nierdz__0532768_pe648263_s5.avif",
+                "image_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_3/image_2/bagganaes-uchwyt-stal-nierdz__0872304_pe719932_s5.avif"
+              }
+            }
+          ]
         },
         {
-          "productNumber": "003.384.07",
-          "name": "Kolor mosiądzu",
-          "size": "143mm",
-          "images": {
-            "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_2/thumbnail/bagganaes-uchwyt-kolor-mosiadzu__0754229_pe747828_s5.avif",
-            "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_2/hover/bagganaes-uchwyt-kolor-mosiadzu__0718632_pe731629_s5.avif",
-            "image_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_2/image_1/bagganaes-uchwyt-kolor-mosiadzu__0532767_pe648262_s5.avif",
-            "image_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_2/image_2/bagganaes-uchwyt-kolor-mosiadzu__0872053_pe719900_s5.avif"
-          }
-        },
-        {
-          "productNumber": "703.384.18",
-          "name": "Stal nierdz",
-          "size": "143mm",
-          "images": {
-            "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_3/thumbnail/bagganaes-uchwyt-stal-nierdz__0754230_pe747829_s5.avif",
-            "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_3/hover/bagganaes-uchwyt-stal-nierdz__0718658_pe731608_s5.avif",
-            "image_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_3/image_1/bagganaes-uchwyt-stal-nierdz__0532768_pe648263_s5.avif",
-            "image_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-143mm/variant_3/image_2/bagganaes-uchwyt-stal-nierdz__0872304_pe719932_s5.avif"
-          }
-        },
-        {
-          "productNumber": "603.384.14",
-          "name": "Czarny",
-          "size": "335mm",
-          "images": {
-            "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-335mm/variant_1/thumbnail/bagganaes-uchwyt-czarny__0754231_pe747832_s5.avif",
-            "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-335mm/variant_1/hover/bagganaes-uchwyt-czarny__0718655_pe731606_s5.avif",
-            "image_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-335mm/variant_1/image_1/bagganaes-uchwyt-czarny__0532769_pe648264_s5.avif"
-          }
-        },
-        {
-          "productNumber": "203.384.11",
-          "name": "Kolor mosiądzu",
-          "size": "335mm",
-          "images": {
-            "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-335mm/variant_2/thumbnail/bagganaes-uchwyt-kolor-mosiadzu__0754232_pe747830_s5.avif",
-            "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-335mm/variant_2/hover/bagganaes-uchwyt-kolor-mosiadzu__0718639_pe731617_s5.avif",
-            "image_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-335mm/variant_2/image_1/bagganaes-uchwyt-kolor-mosiadzu__0532770_pe648265_s5.avif"
-          }
-        },
-        {
-          "productNumber": "503.384.19",
-          "name": "Stal nierdz",
-          "size": "335mm",
-          "images": {
-            "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-335mm/variant_3/thumbnail/bagganaes-uchwyt-stal-nierdz__0754233_pe747831_s5.avif",
-            "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-335mm/variant_3/hover/bagganaes-uchwyt-stal-nierdz__0718650_pe731603_s5.avif",
-            "image_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-335mm/variant_3/image_1/bagganaes-uchwyt-stal-nierdz__0532771_pe648272_s5.avif"
-          }
+          "size": "335 mm",
+          "price": {
+            "decimal": 40,
+            "quantity": 2
+          },
+          "thumbnails": {
+            "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-335mm/variant_1/thumbnail/bagganaes-uchwyt-czarny__0754231_pe747832_s5.avif",
+            "variant_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-335mm/variant_2/thumbnail/bagganaes-uchwyt-kolor-mosiadzu__0754232_pe747830_s5.avif",
+            "variant_3": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-335mm/variant_3/thumbnail/bagganaes-uchwyt-stal-nierdz__0754233_pe747831_s5.avif"
+          },
+          "variants": [
+            {
+              "productNumber": "603.384.14",
+              "variant": "czarny",
+              "images": {
+                "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-335mm/variant_1/thumbnail/bagganaes-uchwyt-czarny__0754231_pe747832_s5.avif",
+                "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-335mm/variant_1/hover/bagganaes-uchwyt-czarny__0718655_pe731606_s5.avif",
+                "image_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-335mm/variant_1/image_1/bagganaes-uchwyt-czarny__0532769_pe648264_s5.avif"
+              }
+            },
+            {
+              "productNumber": "203.384.11",
+              "variant": "kolor mosiądzu",
+              "images": {
+                "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-335mm/variant_2/thumbnail/bagganaes-uchwyt-kolor-mosiadzu__0754232_pe747830_s5.avif",
+                "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-335mm/variant_2/hover/bagganaes-uchwyt-kolor-mosiadzu__0718639_pe731617_s5.avif",
+                "image_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-335mm/variant_2/image_1/bagganaes-uchwyt-kolor-mosiadzu__0532770_pe648265_s5.avif"
+              }
+            },
+            {
+              "productNumber": "503.384.19",
+              "variant": "stal nierdz",
+              "images": {
+                "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-335mm/variant_3/thumbnail/bagganaes-uchwyt-stal-nierdz__0754233_pe747831_s5.avif",
+                "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-335mm/variant_3/hover/bagganaes-uchwyt-stal-nierdz__0718650_pe731603_s5.avif",
+                "image_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BAGGANAS/uchwyt-335mm/variant_3/image_1/bagganaes-uchwyt-stal-nierdz__0532771_pe648272_s5.avif"
+              }
+            }
+          ]
         }
       ]
     }
