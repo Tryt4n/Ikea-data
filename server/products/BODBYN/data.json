@@ -17,9 +17,6 @@
       "sizes": [
         {
           "size": "20x80 cm",
-          "price": {
-            "decimal": 105
-          },
           "thumbnails": {
             "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/20x80/bodbyn-drzwi-kremowy__0633869_pe696156_s5.avif",
             "variant_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/20x80/bodbyn-drzwi-szary__0644841_pe703008_s5.jpg"
@@ -28,6 +25,9 @@
             {
               "productNumber": "102.054.83",
               "variant": "kremowy",
+              "price": {
+                "integer": 105
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/20x80/bodbyn-drzwi-kremowy__0633869_pe696156_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/hover/bodbyn-drzwi-kremowy__0863338_pe682346_s5.avif",
@@ -39,6 +39,9 @@
             {
               "productNumber": "802.210.31",
               "variant": "szary",
+              "price": {
+                "integer": 105
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/20x80/bodbyn-drzwi-szary__0644841_pe703008_s5.jpg",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/hover/bodbyn-drzwi-szary__0864580_pe682343_s5.avif",
@@ -51,9 +54,6 @@
         },
         {
           "size": "30x60 cm",
-          "price": {
-            "decimal": 105
-          },
           "thumbnails": {
             "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/30x60/bodbyn-drzwi-kremowy__0632571_pe695477_s5.avif",
             "variant_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/30x60/bodbyn-drzwi-szary__0632575_pe695479_s5.jpg"
@@ -62,6 +62,9 @@
             {
               "productNumber": "104.188.56",
               "variant": "kremowy",
+              "price": {
+                "integer": 105
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/30x60/bodbyn-drzwi-kremowy__0632571_pe695477_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/hover/bodbyn-drzwi-kremowy__0863338_pe682346_s5.avif",
@@ -73,6 +76,9 @@
             {
               "productNumber": "304.188.55",
               "variant": "szary",
+              "price": {
+                "integer": 105
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/30x60/bodbyn-drzwi-szary__0632575_pe695479_s5.jpg",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/hover/bodbyn-drzwi-szary__0864580_pe682343_s5.avif",
@@ -85,9 +91,6 @@
         },
         {
           "size": "30x80 cm",
-          "price": {
-            "decimal": 130
-          },
           "thumbnails": {
             "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/30x80/bodbyn-drzwi-kremowy__0632583_pe695483_s5.jpg",
             "variant_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/30x80/bodbyn-drzwi-szary__0632591_pe695487_s5.avif"
@@ -96,6 +99,9 @@
             {
               "productNumber": "704.188.58",
               "variant": "kremowy",
+              "price": {
+                "integer": 130
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/30x80/bodbyn-drzwi-kremowy__0632583_pe695483_s5.jpg",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/hover/bodbyn-drzwi-kremowy__0863338_pe682346_s5.avif",
@@ -107,6 +113,9 @@
             {
               "productNumber": "904.188.57",
               "variant": "szary",
+              "price": {
+                "integer": 130
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/30x80/bodbyn-drzwi-szary__0632591_pe695487_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/hover/bodbyn-drzwi-szary__0864580_pe682343_s5.avif",
@@ -119,9 +128,6 @@
         },
         {
           "size": "40x40 cm",
-          "price": {
-            "decimal": 105
-          },
           "thumbnails": {
             "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/40x40/bodbyn-drzwi-kremowy__0633889_pe696158_s5.avif",
             "variant_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/40x40/bodbyn-drzwi-szary__0644843_pe703010_s5.avif"
@@ -130,6 +136,9 @@
             {
               "productNumber": "102.054.97",
               "variant": "kremowy",
+              "price": {
+                "integer": 105
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/40x40/bodbyn-drzwi-kremowy__0633889_pe696158_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/hover/bodbyn-drzwi-kremowy__0863338_pe682346_s5.avif",
@@ -141,6 +150,9 @@
             {
               "productNumber": "902.210.35",
               "variant": "szary",
+              "price": {
+                "integer": 105
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/40x40/bodbyn-drzwi-szary__0644843_pe703010_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/hover/bodbyn-drzwi-szary__0864580_pe682343_s5.avif",
@@ -153,9 +165,6 @@
         },
         {
           "size": "40x60 cm",
-          "price": {
-            "decimal": 115
-          },
           "thumbnails": {
             "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/40x60/bodbyn-drzwi-kremowy__0633892_pe696159_s5.avif",
             "variant_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/40x60/bodbyn-drzwi-szary__0644840_pe703007_s5.avif"
@@ -164,6 +173,9 @@
             {
               "productNumber": "902.054.84",
               "variant": "kremowy",
+              "price": {
+                "integer": 115
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/40x60/bodbyn-drzwi-kremowy__0633892_pe696159_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/hover/bodbyn-drzwi-kremowy__0863338_pe682346_s5.avif",
@@ -175,6 +187,9 @@
             {
               "productNumber": "702.210.36",
               "variant": "szary",
+              "price": {
+                "integer": 115
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/40x60/bodbyn-drzwi-szary__0644840_pe703007_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/hover/bodbyn-drzwi-szary__0864580_pe682343_s5.avif",
@@ -187,9 +202,6 @@
         },
         {
           "size": "40x80 cm",
-          "price": {
-            "decimal": 150
-          },
           "thumbnails": {
             "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/40x80/bodbyn-drzwi-kremowy__0633900_pe696165_s5.avif",
             "variant_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/40x80/bodbyn-drzwi-szary__0644838_pe703005_s5.avif"
@@ -198,6 +210,9 @@
             {
               "productNumber": "702.054.80",
               "variant": "kremowy",
+              "price": {
+                "integer": 150
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/40x80/bodbyn-drzwi-kremowy__0633900_pe696165_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/hover/bodbyn-drzwi-kremowy__0863338_pe682346_s5.avif",
@@ -209,6 +224,9 @@
             {
               "productNumber": "502.210.37",
               "variant": "szary",
+              "price": {
+                "integer": 150
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/40x80/bodbyn-drzwi-szary__0644838_pe703005_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/hover/bodbyn-drzwi-szary__0864580_pe682343_s5.avif",
@@ -221,9 +239,6 @@
         },
         {
           "size": "40x100 cm",
-          "price": {
-            "decimal": 185
-          },
           "thumbnails": {
             "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/40x100/bodbyn-drzwi-kremowy__0633891_pe696160_s5.avif",
             "variant_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/40x100/bodbyn-drzwi-szary__0644839_pe703006_s5.avif"
@@ -232,6 +247,9 @@
             {
               "productNumber": "602.124.19",
               "variant": "kremowy",
+              "price": {
+                "integer": 185
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/40x100/bodbyn-drzwi-kremowy__0633891_pe696160_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/hover/bodbyn-drzwi-kremowy__0863338_pe682346_s5.avif",
@@ -243,6 +261,9 @@
             {
               "productNumber": "602.210.32",
               "variant": "szary",
+              "price": {
+                "integer": 185
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/40x100/bodbyn-drzwi-szary__0644839_pe703006_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/hover/bodbyn-drzwi-szary__0864580_pe682343_s5.avif",
@@ -255,9 +276,6 @@
         },
         {
           "size": "40x140 cm",
-          "price": {
-            "decimal": 285
-          },
           "thumbnails": {
             "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/40x140/bodbyn-drzwi-kremowy__0633890_pe696161_s5.avif",
             "variant_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/40x140/bodbyn-drzwi-szary__0644837_pe703009_s5.jpg"
@@ -266,6 +284,9 @@
             {
               "productNumber": "602.054.90",
               "variant": "kremowy",
+              "price": {
+                "integer": 285
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/40x140/bodbyn-drzwi-kremowy__0633890_pe696161_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/hover/bodbyn-drzwi-kremowy__0863338_pe682346_s5.avif",
@@ -277,6 +298,9 @@
             {
               "productNumber": "402.210.33",
               "variant": "szary",
+              "price": {
+                "integer": 285
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/40x140/bodbyn-drzwi-szary__0644837_pe703009_s5.jpg",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/hover/bodbyn-drzwi-szary__0864580_pe682343_s5.avif",
@@ -289,9 +313,6 @@
         },
         {
           "size": "40x200 cm",
-          "price": {
-            "decimal": 345
-          },
           "thumbnails": {
             "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/40x200/bodbyn-drzwi-kremowy__0633888_pe696157_s5.jpg",
             "variant_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/40x200/bodbyn-drzwi-szary__0644836_pe703013_s5.avif"
@@ -300,6 +321,9 @@
             {
               "productNumber": "002.054.88",
               "variant": "kremowy",
+              "price": {
+                "integer": 345
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/40x200/bodbyn-drzwi-kremowy__0633888_pe696157_s5.jpg",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/hover/bodbyn-drzwi-kremowy__0863338_pe682346_s5.avif",
@@ -311,6 +335,9 @@
             {
               "productNumber": "202.210.34",
               "variant": "szary",
+              "price": {
+                "integer": 345
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/40x200/bodbyn-drzwi-szary__0644836_pe703013_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/hover/bodbyn-drzwi-szary__0864580_pe682343_s5.avif",
@@ -323,9 +350,6 @@
         },
         {
           "size": "60x40 cm",
-          "price": {
-            "decimal": 115
-          },
           "thumbnails": {
             "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/60x40/bodbyn-drzwi-kremowy__0633895_pe696164_s5.avif",
             "variant_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/60x40/bodbyn-drzwi-szary__0644982_pe703138_s5.avif"
@@ -334,6 +358,9 @@
             {
               "productNumber": "102.055.05",
               "variant": "kremowy",
+              "price": {
+                "integer": 115
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/60x40/bodbyn-drzwi-kremowy__0633895_pe696164_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/hover/bodbyn-drzwi-kremowy__0863338_pe682346_s5.avif",
@@ -345,6 +372,9 @@
             {
               "productNumber": "702.210.41",
               "variant": "szary",
+              "price": {
+                "integer": 115
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/60x40/bodbyn-drzwi-szary__0644982_pe703138_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/hover/bodbyn-drzwi-szary__0864580_pe682343_s5.avif",
@@ -357,9 +387,6 @@
         },
         {
           "size": "60x60 cm",
-          "price": {
-            "decimal": 175
-          },
           "thumbnails": {
             "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/60x60/bodbyn-drzwi-kremowy__0633899_pe696168_s5.avif",
             "variant_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/60x60/bodbyn-drzwi-szary__0644980_pe703140_s5.avif"
@@ -368,6 +395,9 @@
             {
               "productNumber": "602.054.85",
               "variant": "kremowy",
+              "price": {
+                "integer": 175
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/60x60/bodbyn-drzwi-kremowy__0633899_pe696168_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/hover/bodbyn-drzwi-kremowy__0863338_pe682346_s5.avif",
@@ -379,6 +409,9 @@
             {
               "productNumber": "502.210.42",
               "variant": "szary",
+              "price": {
+                "integer": 175
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/60x60/bodbyn-drzwi-szary__0644980_pe703140_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/hover/bodbyn-drzwi-szary__0864580_pe682343_s5.avif",
@@ -391,9 +424,6 @@
         },
         {
           "size": "60x80 cm",
-          "price": {
-            "decimal": 190
-          },
           "thumbnails": {
             "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/60x80/bodbyn-drzwi-kremowy__0633921_pe696182_s5.avif",
             "variant_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/60x80/bodbyn-drzwi-szary__0644979_pe703135_s5.avif"
@@ -402,6 +432,9 @@
             {
               "productNumber": "502.054.81",
               "variant": "kremowy",
+              "price": {
+                "integer": 190
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/60x80/bodbyn-drzwi-kremowy__0633921_pe696182_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/hover/bodbyn-drzwi-kremowy__0863338_pe682346_s5.avif",
@@ -413,6 +446,9 @@
             {
               "productNumber": "302.210.43",
               "variant": "szary",
+              "price": {
+                "integer": 190
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/60x80/bodbyn-drzwi-szary__0644979_pe703135_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/hover/bodbyn-drzwi-szary__0864580_pe682343_s5.avif",
@@ -425,9 +461,6 @@
         },
         {
           "size": "60x100 cm",
-          "price": {
-            "decimal": 255
-          },
           "thumbnails": {
             "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/60x100/bodbyn-drzwi-kremowy__0633897_pe696166_s5.avif",
             "variant_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/60x100/bodbyn-drzwi-szary__0644978_pe703134_s5.avif"
@@ -436,6 +469,9 @@
             {
               "productNumber": "402.054.91",
               "variant": "kremowy",
+              "price": {
+                "integer": 255
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/60x100/bodbyn-drzwi-kremowy__0633897_pe696166_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/hover/bodbyn-drzwi-kremowy__0863338_pe682346_s5.avif",
@@ -447,6 +483,9 @@
             {
               "productNumber": "302.210.38",
               "variant": "szary",
+              "price": {
+                "integer": 255
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/60x100/bodbyn-drzwi-szary__0644978_pe703134_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/hover/bodbyn-drzwi-szary__0864580_pe682343_s5.avif",
@@ -459,9 +498,6 @@
         },
         {
           "size": "60x120 cm",
-          "price": {
-            "decimal": 305
-          },
           "thumbnails": {
             "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/60x120/bodbyn-drzwi-kremowy__0633902_pe696163_s5.avif",
             "variant_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/60x120/bodbyn-drzwi-szary__0644983_pe703139_s5.avif"
@@ -470,6 +506,9 @@
             {
               "productNumber": "802.055.02",
               "variant": "kremowy",
+              "price": {
+                "integer": 305
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/60x120/bodbyn-drzwi-kremowy__0633902_pe696163_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/hover/bodbyn-drzwi-kremowy__0863338_pe682346_s5.avif",
@@ -481,6 +520,9 @@
             {
               "productNumber": "702.210.55",
               "variant": "szary",
+              "price": {
+                "integer": 305
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/60x120/bodbyn-drzwi-szary__0644983_pe703139_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/hover/bodbyn-drzwi-szary__0864580_pe682343_s5.avif",
@@ -493,9 +535,6 @@
         },
         {
           "size": "60x140 cm",
-          "price": {
-            "decimal": 330
-          },
           "thumbnails": {
             "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/60x140/bodbyn-drzwi-kremowy__0633901_pe696162_s5.avif",
             "variant_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/60x140/bodbyn-drzwi-szary__0644977_pe703133_s5.jpg"
@@ -504,6 +543,9 @@
             {
               "productNumber": "802.054.89",
               "variant": "kremowy",
+              "price": {
+                "integer": 330
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/60x140/bodbyn-drzwi-kremowy__0633901_pe696162_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/hover/bodbyn-drzwi-kremowy__0863338_pe682346_s5.avif",
@@ -515,6 +557,9 @@
             {
               "productNumber": "102.210.39",
               "variant": "szary",
+              "price": {
+                "integer": 330
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/60x140/bodbyn-drzwi-szary__0644977_pe703133_s5.jpg",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/hover/bodbyn-drzwi-szary__0864580_pe682343_s5.avif",
@@ -527,9 +572,6 @@
         },
         {
           "size": "60x200 cm",
-          "price": {
-            "decimal": 380
-          },
           "thumbnails": {
             "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/60x200/bodbyn-drzwi-kremowy__0633896_pe696169_s5.avif",
             "variant_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/60x200/bodbyn-drzwi-szary__0644984_pe703136_s5.avif"
@@ -538,6 +580,9 @@
             {
               "productNumber": "202.054.87",
               "variant": "kremowy",
+              "price": {
+                "integer": 380
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/thumbnail/60x200/bodbyn-drzwi-kremowy__0633896_pe696169_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_1/hover/bodbyn-drzwi-kremowy__0863338_pe682346_s5.avif",
@@ -549,6 +594,9 @@
             {
               "productNumber": "902.210.40",
               "variant": "szary",
+              "price": {
+                "integer": 380
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/thumbnail/60x200/bodbyn-drzwi-szary__0644984_pe703136_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/drzwi/variant_2/hover/bodbyn-drzwi-szary__0864580_pe682343_s5.avif",
@@ -575,10 +623,6 @@
       "sizes": [
         {
           "size": "40x10 cm",
-          "price": {
-            "decimal": 75,
-            "quantity": 2
-          },
           "thumbnails": {
             "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_1/thumbnail/40x10/bodbyn-front-szuflady-kremowy__0633960_pe696226_s5.avif",
             "variant_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_2/thumbnail/40x10/bodbyn-front-szuflady-szary__0633965_pe696227_s5.avif"
@@ -587,6 +631,10 @@
             {
               "productNumber": "202.054.92",
               "variant": "kremowy",
+              "price": {
+                "integer": 75,
+                "quantity": 2
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_1/thumbnail/40x10/bodbyn-front-szuflady-kremowy__0633960_pe696226_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_1/hover/bodbyn-front-szuflady-kremowy__0863342_pe682341_s5.avif",
@@ -597,6 +645,10 @@
             {
               "productNumber": "802.210.45",
               "variant": "szary",
+              "price": {
+                "integer": 75,
+                "quantity": 2
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_2/thumbnail/40x10/bodbyn-front-szuflady-szary__0633965_pe696227_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_2/hover/bodbyn-front-szuflady-szary__0863460_pe659441_s5.avif",
@@ -608,9 +660,6 @@
         },
         {
           "size": "40x20 cm",
-          "price": {
-            "decimal": 65
-          },
           "thumbnails": {
             "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_1/thumbnail/40x20/bodbyn-front-szuflady-kremowy__0645010_pe703163_s5.avif",
             "variant_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_2/thumbnail/40x20/bodbyn-front-szuflady-szary__0645012_pe703165_s5.avif"
@@ -619,6 +668,9 @@
             {
               "productNumber": "302.054.96",
               "variant": "kremowy",
+              "price": {
+                "integer": 65
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_1/thumbnail/40x20/bodbyn-front-szuflady-kremowy__0645010_pe703163_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_1/hover/bodbyn-front-szuflady-kremowy__0863342_pe682341_s5.avif",
@@ -629,6 +681,9 @@
             {
               "productNumber": "602.210.46",
               "variant": "szary",
+              "price": {
+                "integer": 65
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_2/thumbnail/40x20/bodbyn-front-szuflady-szary__0645012_pe703165_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_2/hover/bodbyn-front-szuflady-szary__0863460_pe659441_s5.avif",
@@ -640,9 +695,6 @@
         },
         {
           "size": "40x40 cm",
-          "price": {
-            "decimal": 105
-          },
           "thumbnails": {
             "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_1/thumbnail/40x40/bodbyn-front-szuflady-kremowy__0645013_pe703166_s5.avif",
             "variant_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_2/thumbnail/40x40/bodbyn-front-szuflady-szary__0645011_pe703169_s5.avif"
@@ -651,6 +703,9 @@
             {
               "productNumber": "702.054.99",
               "variant": "kremowy",
+              "price": {
+                "integer": 105
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_1/thumbnail/40x40/bodbyn-front-szuflady-kremowy__0645013_pe703166_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_1/hover/bodbyn-front-szuflady-kremowy__0863342_pe682341_s5.avif",
@@ -661,6 +716,9 @@
             {
               "productNumber": "402.210.47",
               "variant": "szary",
+              "price": {
+                "integer": 105
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_2/thumbnail/40x40/bodbyn-front-szuflady-szary__0645011_pe703169_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_2/hover/bodbyn-front-szuflady-szary__0863460_pe659441_s5.avif",
@@ -672,10 +730,6 @@
         },
         {
           "size": "60x10 cm",
-          "price": {
-            "decimal": 105,
-            "quantity": 2
-          },
           "thumbnails": {
             "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_1/thumbnail/60x10/bodbyn-front-szuflady-kremowy__0633961_pe696225_s5.avif",
             "variant_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_2/thumbnail/60x10/bodbyn-front-szuflady-szary__0633964_pe696228_s5.jpg"
@@ -684,6 +738,10 @@
             {
               "productNumber": "502.054.95",
               "variant": "kremowy",
+              "price": {
+                "integer": 105,
+                "quantity": 2
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_1/thumbnail/60x10/bodbyn-front-szuflady-kremowy__0633961_pe696225_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_1/hover/bodbyn-front-szuflady-kremowy__0863342_pe682341_s5.avif",
@@ -694,6 +752,10 @@
             {
               "productNumber": "202.210.48",
               "variant": "szary",
+              "price": {
+                "integer": 105,
+                "quantity": 2
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_2/thumbnail/60x10/bodbyn-front-szuflady-szary__0633964_pe696228_s5.jpg",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_2/hover/bodbyn-front-szuflady-szary__0863460_pe659441_s5.avif",
@@ -705,9 +767,6 @@
         },
         {
           "size": "60x20 cm",
-          "price": {
-            "decimal": 80
-          },
           "thumbnails": {
             "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_1/thumbnail/60x20/bodbyn-front-szuflady-kremowy__0645014_pe703167_s5.avif",
             "variant_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_2/thumbnail/60x20/bodbyn-front-szuflady-szary__0645008_pe703161_s5.avif"
@@ -716,6 +775,9 @@
             {
               "productNumber": "802.082.61",
               "variant": "kremowy",
+              "price": {
+                "integer": 80
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_1/thumbnail/60x20/bodbyn-front-szuflady-kremowy__0645014_pe703167_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_1/hover/bodbyn-front-szuflady-kremowy__0863342_pe682341_s5.avif",
@@ -726,6 +788,9 @@
             {
               "productNumber": "002.210.49",
               "variant": "szary",
+              "price": {
+                "integer": 80
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_2/thumbnail/60x20/bodbyn-front-szuflady-szary__0645008_pe703161_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_2/hover/bodbyn-front-szuflady-szary__0863460_pe659441_s5.avif",
@@ -737,9 +802,6 @@
         },
         {
           "size": "60x40 cm",
-          "price": {
-            "decimal": 115
-          },
           "thumbnails": {
             "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_1/thumbnail/60x40/bodbyn-front-szuflady-kremowy__0645007_pe703160_s5.avif",
             "variant_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_2/thumbnail/60x40/bodbyn-front-szuflady-szary__0645015_pe703168_s5.avif"
@@ -748,6 +810,9 @@
             {
               "productNumber": "002.055.01",
               "variant": "kremowy",
+              "price": {
+                "integer": 115
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_1/thumbnail/60x40/bodbyn-front-szuflady-kremowy__0645007_pe703160_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_1/hover/bodbyn-front-szuflady-kremowy__0863342_pe682341_s5.avif",
@@ -758,6 +823,9 @@
             {
               "productNumber": "802.210.50",
               "variant": "szary",
+              "price": {
+                "integer": 115
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_2/thumbnail/60x40/bodbyn-front-szuflady-szary__0645015_pe703168_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_2/hover/bodbyn-front-szuflady-szary__0863460_pe659441_s5.avif",
@@ -769,10 +837,6 @@
         },
         {
           "size": "80x10 cm",
-          "price": {
-            "decimal": 115,
-            "quantity": 2
-          },
           "thumbnails": {
             "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_1/thumbnail/80x10/bodbyn-front-szuflady-kremowy__0153065_pe311367_s5.avif",
             "variant_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_2/thumbnail/80x10/bodbyn-front-szuflady-szary__0645417_pe703517_s5.avif"
@@ -781,6 +845,10 @@
             {
               "productNumber": "802.054.94",
               "variant": "kremowy",
+              "price": {
+                "integer": 115,
+                "quantity": 2
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_1/thumbnail/80x10/bodbyn-front-szuflady-kremowy__0153065_pe311367_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_1/hover/bodbyn-front-szuflady-kremowy__0863342_pe682341_s5.avif",
@@ -791,6 +859,10 @@
             {
               "productNumber": "602.210.51",
               "variant": "szary",
+              "price": {
+                "integer": 115,
+                "quantity": 2
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_2/thumbnail/80x10/bodbyn-front-szuflady-szary__0645417_pe703517_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_2/hover/bodbyn-front-szuflady-szary__0863460_pe659441_s5.avif",
@@ -802,9 +874,6 @@
         },
         {
           "size": "80x20 cm",
-          "price": {
-            "decimal": 95
-          },
           "thumbnails": {
             "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_1/thumbnail/80x20/bodbyn-front-szuflady-kremowy__0706697_pe725963_s5.avif",
             "variant_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_2/thumbnail/80x20/bodbyn-front-szuflady-szary__0150339_pe308478_s5.avif"
@@ -813,6 +882,9 @@
             {
               "productNumber": "902.054.98",
               "variant": "kremowy",
+              "price": {
+                "integer": 95
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_1/thumbnail/80x20/bodbyn-front-szuflady-kremowy__0706697_pe725963_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_1/hover/bodbyn-front-szuflady-kremowy__0863342_pe682341_s5.avif",
@@ -823,6 +895,9 @@
             {
               "productNumber": "402.210.52",
               "variant": "szary",
+              "price": {
+                "integer": 95
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_2/thumbnail/80x20/bodbyn-front-szuflady-szary__0150339_pe308478_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_2/hover/bodbyn-front-szuflady-szary__0863460_pe659441_s5.avif",
@@ -834,9 +909,6 @@
         },
         {
           "size": "80x40 cm",
-          "price": {
-            "decimal": 140
-          },
           "thumbnails": {
             "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_1/thumbnail/80x40/bodbyn-front-szuflady-kremowy__0706696_pe725959_s5.avif",
             "variant_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_2/thumbnail/80x40/bodbyn-front-szuflady-szary__0706700_pe725960_s5.avif"
@@ -845,6 +917,9 @@
             {
               "productNumber": "002.054.93",
               "variant": "kremowy",
+              "price": {
+                "integer": 140
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_1/thumbnail/80x40/bodbyn-front-szuflady-kremowy__0706696_pe725959_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_1/hover/bodbyn-front-szuflady-kremowy__0863342_pe682341_s5.avif",
@@ -855,6 +930,9 @@
             {
               "productNumber": "202.210.53",
               "variant": "szary",
+              "price": {
+                "integer": 140
+              },
               "images": {
                 "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_2/thumbnail/80x40/bodbyn-front-szuflady-szary__0706700_pe725960_s5.avif",
                 "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/BODBYN/front-szuflady/variant_2/hover/bodbyn-front-szuflady-szary__0863460_pe659441_s5.avif",
