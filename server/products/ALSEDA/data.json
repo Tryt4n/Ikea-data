@@ -1,0 +1,32 @@
+{
+  "id": "6WFV3D0C36",
+  "collectionName": "ALSEDA",
+  "products": [
+    {
+      "name": "Stołek",
+      "description": "Ręcznie wyplatany przez doświadczonych rzemieślników, dzięki czemu każdy stołek ALSEDA jest wyjątkowy.",
+      "price": {
+        "decimal": 159
+      },
+      "rating": {
+        "rate": 5,
+        "quantity": 29
+      },
+      "thumbnails": {
+        "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/ALSEDA/stolek/variant_1/thumbnail/alseda-stolek-wlokno-bananowca__24302_pe089431_s5.avif"
+      },
+      "variants": [
+        {
+          "productNumber": "200.339.19",
+          "name": "włókno bananowca",
+          "size": "143mm",
+          "images": {
+            "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/ALSEDA/stolek/variant_1/thumbnail/alseda-stolek-wlokno-bananowca__24302_pe089431_s5.avif",
+            "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/ALSEDA/stolek/variant_1/hover/alseda-stolek-wlokno-bananowca__1097696_ph173556_s5.webp",
+            "image_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/ALSEDA/stolek/variant_1/image_1/alseda-stolek-wlokno-bananowca__1059353_pe849594_s5.avif"
+          }
+        }
+      ]
+    }
+  ]
+}
