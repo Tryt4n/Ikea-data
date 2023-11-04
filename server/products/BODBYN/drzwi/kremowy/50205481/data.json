@@ -1,0 +1,47 @@
+{
+  "name": "Drzwi",
+  "productNumber": "502.054.81",
+  "size": "60x80 cm",
+  "price": {
+    "decimal": 190
+  },
+  "variants": ["kremowy", "szary"],
+  "variant": "kremowy",
+  "relatedProducts": [
+    {
+      "20x80 cm": "10205483",
+      "30x60 cm": "10418856",
+      "30x80 cm": "70418858",
+      "40x40 cm": "10205497",
+      "40x60 cm": "90205484",
+      "40x80 cm": "70205480",
+      "40x100 cm": "60212419",
+      "40x140 cm": "60205490",
+      "40x200 cm": "00205488",
+      "60x40 cm": "10205505",
+      "60x60 cm": "60205485",
+      "60x100 cm": "40205491",
+      "60x120 cm": "80205502",
+      "60x140 cm": "80205489",
+      "60x200 cm": "20205487"
+    }
+  ],
+  "description": "Klasyczna ekspresja w kolorze złamanej bieli z fazowanymi panelami, które tworzą tradycyjny charakter o ciepłej i przyjaznej atmosferze. Fronty BODBYN są łatwe do utrzymania czystości dzięki gładkiej, lakierowanej powierzchni.",
+  "rating": {
+    "rate": 5,
+    "quantity": 195
+  },
+  "guarantee": 25,
+  "topSeller": true,
+  "thumbnails": {
+    "variant_1": "0633921_pe696182_s5.jpg",
+    "variant_2": "0644979_pe703135_s5.jpg"
+  },
+  "images": {
+    "main": "0633921_pe696182_s5.jpg",
+    "image_1": "0863334_pe388872_s5.jpg",
+    "image_2": "0864587_pe682340_s5.jpg",
+    "imgHover": "0863338_pe682346_s5.jpg",
+    "image_3": "1030337_ph174565_s5.jpg"
+  }
+}

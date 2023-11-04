@@ -1,0 +1,46 @@
+{
+  "name": "Drzwi",
+  "productNumber": "502.210.42",
+  "size": "60x60 cm",
+  "price": {
+    "decimal": 175
+  },
+  "variants": ["kremowy", "szary"],
+  "variant": "szary",
+  "relatedProducts": [
+    {
+      "20x80 cm": "80221031",
+      "30x60 cm": "30418855",
+      "30x80 cm": "90418857",
+      "40x40 cm": "90221035",
+      "40x60 cm": "70221036",
+      "40x80 cm": "50221037",
+      "40x100 cm": "60221032",
+      "40x140 cm": "40221033",
+      "40x200 cm": "20221034",
+      "60x40 cm": "70221041",
+      "60x80 cm": "30221043",
+      "60x100 cm": "30221038",
+      "60x120 cm": "70221055",
+      "60x140 cm": "10221039",
+      "60x200 cm": "90221040"
+    }
+  ],
+  "description": "Klasyczna ekspresja w delikatnie szarym kolorze z fazowanymi panelami, które tworzą odważny charakter z ciepłą, przyjazną atmosferą. Fronty BODBYN są łatwe do utrzymania w czystości dzięki gładkiej, lakierowanej powierzchni.",
+  "rating": {
+    "rate": 5,
+    "quantity": 195
+  },
+  "guarantee": 25,
+  "thumbnails": {
+    "variant_1": "0633899_pe696168_s5.jpg",
+    "variant_2": "0644980_pe703140_s5.jpg"
+  },
+  "images": {
+    "main": "0644980_pe703140_s5.jpg",
+    "image_1": "0862582_pe682338_s5.jpg",
+    "imgHover": "0864580_pe682343_s5.jpg",
+    "image_2": "0863454_pe388871_s5.jpg",
+    "image_3": "1030336_ph172894_s5.jpg"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Uchwyt",
+  "productNumber": "503.384.19",
+  "size": "335 mm",
+  "price": {
+    "decimal": 40,
+    "quantity": 2
+  },
+  "variants": ["czarny", "kolor mosiądzu", "stal nierdz"],
+  "variant": "stal nierdz",
+  "relatedProducts": [
+    {
+      "335 mm": "70338418"
+    }
+  ],
+  "description": "Gałki i uchwyty są jak wisienka na torcie - mały szczegół, który robi wielką różnicę. Seria BAGGANÄS oferuje ponadczasowy, szlachetny wygląd, który pasuje zarówno do domów w nowoczesnym, jak i tradycyjnym stylu.",
+  "rating": {
+    "rate": 5,
+    "quantity": 119
+  },
+  "thumbnails": {
+    "variant_1": "0754231_pe747832_s5.jpg",
+    "variant_2": "0754232_pe747830_s5.jpg",
+    "variant_3": "0754233_pe747831_s5.jpg"
+  },
+  "images": {
+    "main": "0754233_pe747831_s5.jpg",
+    "image_1": "0532771_pe648272_s5.jpg",
+    "imgHover": "0718650_pe731603_s5.jpg"
+  }
+}
