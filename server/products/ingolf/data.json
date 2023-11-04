@@ -1,0 +1,111 @@
+{
+  "id": "WEOJ8VXBVY",
+  "collectionName": "ALSEDA",
+  "products": [
+    {
+      "name": "Krzesło",
+      "variants": ["bejca patynowa", "biały", "brązowoczarny", "szary"],
+      "additionalInfo": "Aby nie dopuścić do zarysowania powierzchni i wygłuszyć dźwięk przesuwanych po podłodze nóg krzesła, uzupełnij samoprzylepnymi ochraniaczami podłogi FIXA, sprzedawanymi oddzielnie.",
+      "description": {
+        "variant_1": "Lita sosna to naturalny materiał, który pięknie się starzeje i z czasem zyskuje niepowtarzalny charakter.",
+        "variant_2": "Solidna rama z litego drewna jest pomalowana na świeży biały kolor, aby rozjaśnić każdy ponury dzień.",
+        "variant_3": "Wysokie oparcie zapewnia komfort siedzenia.",
+        "variant_4": "Lite drewno to wytrzymały, naturalny materiał."
+      },
+      "rating": {
+        "rate": 4.5,
+        "quantity": 376
+      },
+      "sizes": [
+        {
+          "size": "universal",
+          "thumbnails": {
+            "variant_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_1/thumbnail/ingolf-krzeslo-bejca-patynowa__0728154_pe736114_s5.avif",
+            "variant_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_2/thumbnail/ingolf-krzeslo-bialy__0728152_pe736113_s5.avif",
+            "variant_3": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_3/thumbnail/ingolf-krzeslo-brazowoczarny__0728153_pe736122_s5.avif",
+            "variant_4": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_4/thumbnail/ingolf-krzeslo-szary__0622804_pe690773_s5.avif"
+          },
+          "variants": [
+            {
+              "productNumber": "002.178.20",
+              "variant": "bejca patynowa",
+              "price": {
+                "integer": 249
+              },
+              "images": {
+                "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_1/thumbnail/ingolf-krzeslo-bejca-patynowa__0728154_pe736114_s5.avif",
+                "image_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_1/image_1/ingolf-krzeslo-bejca-patynowa__0744127_pe226755_s5.avif",
+                "image_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_1/image_2/ingolf-krzeslo-bejca-patynowa__0744129_pe242636_s5.avif",
+                "image_3": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_1/image_3/ingolf-krzeslo-bejca-patynowa__0383096_pe363609_s5.avif",
+                "image_4": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_1/image_4/ingolf-krzeslo-bejca-patynowa__1053160_pe846753_s5.avif",
+                "image_5": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_1/image_5/ingolf-krzeslo-bejca-patynowa__1053158_pe846751_s5.avif",
+                "image_6": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_1/image_6/ingolf-krzeslo-bejca-patynowa__1053156_pe846749_s5.avif",
+                "image_7": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_1/image_7/ingolf-krzeslo-bejca-patynowa__0872343_pe590609_s5.avif",
+                "image_8": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_1/image_8/ingolf-krzeslo-bejca-patynowa__0872347_pe591001_s5.avif",
+                "image_9": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_1/image_9/ingolf-krzeslo-bejca-patynowa__1053157_pe846750_s5.avif",
+                "image_10": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_1/image_10/ingolf-krzeslo-bejca-patynowa__0947841_pe798658_s5.avif",
+                "image_11": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_1/image_11/ingolf-krzeslo-bejca-patynowa__0872362_pe595407_s5.avif",
+                "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_1/hover/ingolf-krzeslo-bejca-patynowa__1053159_pe846752_s5.avif"
+              }
+            },
+            {
+              "productNumber": "701.032.50",
+              "variant": "biały",
+              "price": {
+                "integer": 249
+              },
+              "images": {
+                "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_2/thumbnail/ingolf-krzeslo-bialy__0728152_pe736113_s5.avif",
+                "image_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_2/image_1/ingolf-krzeslo-bialy__0209109_pe323885_s5.avif",
+                "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_2/hover/ingolf-krzeslo-bialy__1052477_pe846140_s5.avif",
+                "image_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_2/image_2/ingolf-krzeslo-bialy__1052478_pe846141_s5.avif",
+                "image_3": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_2/image_3/ingolf-krzeslo-bialy__1052476_pe846139_s5.avif",
+                "image_4": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_2/image_4/ingolf-krzeslo-bialy__1052474_pe846137_s5.avif",
+                "image_5": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_2/image_5/ingolf-krzeslo-bialy__1052475_pe846138_s5.avif",
+                "image_6": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_2/image_6/ingolf-krzeslo-bialy__0995229_pe821628_s5.avif"
+              }
+            },
+            {
+              "productNumber": "602.178.22",
+              "variant": "brązowoczarny",
+              "price": {
+                "integer": 249
+              },
+              "images": {
+                "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_3/thumbnail/ingolf-krzeslo-brazowoczarny__0728153_pe736122_s5.avif",
+                "image_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_3/image_1/ingolf-krzeslo-brazowoczarny__0744110_ph147726_s5.avif",
+                "image_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_3/image_2/ingolf-krzeslo-brazowoczarny__0577868_ph135647_s5.avif",
+                "image_3": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_3/image_3/ingolf-krzeslo-brazowoczarny__0679681_ph146095_s5.avif",
+                "image_4": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_3/image_4/ingolf-krzeslo-brazowoczarny__0577867_ph132623_s5.avif",
+                "image_5": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_3/image_5/ingolf-krzeslo-brazowoczarny__0872556_pe595406_s5.avif",
+                "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_3/hover/ingolf-krzeslo-brazowoczarny__1053144_pe846737_s5.avif",
+                "image_6": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_3/image_6/ingolf-krzeslo-brazowoczarny__1053145_pe846738_s5.avif",
+                "image_7": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_3/image_7/ingolf-krzeslo-brazowoczarny__1053143_pe846736_s5.avif",
+                "image_8": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_3/image_8/ingolf-krzeslo-brazowoczarny__1075752_pe856552_s5.avif",
+                "image_9": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_3/image_9/ingolf-krzeslo-brazowoczarny__0872567_pe630827_s5.avif",
+                "image_10": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_3/image_10/ingolf-krzeslo-brazowoczarny__0872561_pe630826_s5.avif",
+                "image_11": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_3/image_11/ingolf-krzeslo-brazowoczarny__1053142_pe846735_s5.avif",
+                "image_12": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_3/image_12/ingolf-krzeslo-brazowoczarny__0947841_pe798658_s5.avif"
+              }
+            },
+            {
+              "productNumber": "204.281.00",
+              "variant": "szary",
+              "price": {
+                "integer": 249
+              },
+              "images": {
+                "main": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_4/thumbnail/ingolf-krzeslo-szary__0622804_pe690773_s5.avif",
+                "image_1": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_4/image_1/ingolf-krzeslo-szary__1053131_pe846724_s5.avif",
+                "image_2": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_4/image_2/ingolf-krzeslo-szary__1053133_pe846726_s5.avif",
+                "imgHover": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_4/hover/ingolf-krzeslo-szary__1053132_pe846768_s5.avif",
+                "image_3": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_4/image_3/ingolf-krzeslo-szary__1053132_pe846768_s5.avif",
+                "image_4": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/products/INGOLF/krzeslo/variant_3/image_12/ingolf-krzeslo-brazowoczarny__0947841_pe798658_s5.avif"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

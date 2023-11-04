@@ -1,0 +1,968 @@
+{
+  "id": "0XP3WQ07VV",
+  "collectionName": "MALM",
+  "products": [
+    {
+      "name": "Komoda, 2 szuflady",
+      "variants": [
+        "biały",
+        "czarnobrąz",
+        "okleina dębowa bejcowana na biało",
+        "połysk biały",
+        "szarozielony"
+      ],
+      "description": {
+        "variant_1": "Prosty styl, który dobrze pasuje w sypialni lub w jakimkolwiek innym miejscu. Płynnie wysuwane szuflady i różne wykończenia - wybierz swoje ulubione.",
+        "variant_2": "Prosty styl, który dobrze pasuje w sypialni lub w jakimkolwiek innym miejscu. Płynnie wysuwane szuflady i różne wykończenia - wybierz swoje ulubione.",
+        "variant_3": "Prosty styl, który dobrze pasuje w sypialni lub w jakimkolwiek innym miejscu. Płynnie wysuwane szuflady i różne wykończenia - wybierz swoje ulubione.",
+        "variant_4": "Prosty styl, który dobrze pasuje w sypialni lub w jakimkolwiek innym miejscu. Płynnie wysuwane szuflady i różne wykończenia - wybierz swoje ulubione. Psst! Należy przymocować do ściany.",
+        "variant_5": "Nie przegap! Szaro-zielona komoda MALM będzie u nas tylko przez jakiś czas. Jej klasyczny wygląd pasuje dosłownie wszędzie – w sypialni lub gdziekolwiek indziej."
+      },
+      "rating": {
+        "rate": 5,
+        "quantity": 548
+      },
+      "sizes": [
+        {
+          "size": "40x55 cm",
+          "thumbnails": {
+            "variant_1": {
+              "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0626822_pe693007_s5.jpg?f=xu",
+              "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0626822_pe693007_s5.jpg?f=u 2x, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0626822_pe693007_s5.jpg?f=xu "
+            },
+            "variant_2": {
+              "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154559_pe886158_s5.jpg?f=xu",
+              "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154559_pe886158_s5.jpg?f=u 2x, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154559_pe886158_s5.jpg?f=xu "
+            },
+            "variant_3": {
+              "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-okleina-debowa-bejcowana-na-bialo__1154592_pe886219_s5.jpg?f=xu",
+              "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-okleina-debowa-bejcowana-na-bialo__1154592_pe886219_s5.jpg?f=u 2x, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-okleina-debowa-bejcowana-na-bialo__1154592_pe886219_s5.jpg?f=xu "
+            },
+            "variant_4": {
+              "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154579_pe886211_s5.jpg?f=xu",
+              "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154579_pe886211_s5.jpg?f=u 2x, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154579_pe886211_s5.jpg?f=xu "
+            },
+            "variant_5": {
+              "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1182930_pe897352_s5.jpg?f=xu",
+              "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1182930_pe897352_s5.jpg?f=u 2x, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1182930_pe897352_s5.jpg?f=xu "
+            }
+          },
+          "variants": [
+            {
+              "productNumber": "802.145.49",
+              "variant": "biały",
+              "price": {
+                "integer": 199
+              },
+              "oldPriceTag": {
+                "variant": "red",
+                "integer": 249
+              },
+              "images": {
+                "main": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0626822_pe693007_s5.jpg?f=5",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0626822_pe693007_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0626822_pe693007_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0626822_pe693007_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0626822_pe693007_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0626822_pe693007_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0626822_pe693007_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0626822_pe693007_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0626822_pe693007_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0626822_pe693007_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0626822_pe693007_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0626822_pe693007_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0626822_pe693007_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0626822_pe693007_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0626822_pe693007_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0626822_pe693007_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "imgHover": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154585_pe886214_s5.jpg?f=5",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154585_pe886214_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154585_pe886214_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154585_pe886214_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154585_pe886214_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154585_pe886214_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154585_pe886214_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154585_pe886214_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154585_pe886214_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154585_pe886214_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154585_pe886214_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154585_pe886214_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154585_pe886214_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154585_pe886214_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154585_pe886214_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154585_pe886214_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_1": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154235_pe885954_s5.jpg?f=5",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154235_pe885954_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154235_pe885954_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154235_pe885954_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154235_pe885954_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154235_pe885954_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154235_pe885954_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154235_pe885954_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154235_pe885954_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154235_pe885954_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154235_pe885954_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154235_pe885954_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154235_pe885954_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154235_pe885954_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154235_pe885954_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154235_pe885954_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_2": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154584_pe886215_s5.jpg?f=5",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154584_pe886215_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154584_pe886215_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154584_pe886215_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154584_pe886215_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154584_pe886215_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154584_pe886215_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154584_pe886215_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154584_pe886215_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154584_pe886215_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154584_pe886215_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154584_pe886215_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154584_pe886215_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154584_pe886215_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154584_pe886215_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__1154584_pe886215_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_3": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=5",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xxxs 160w"
+                  }
+                }
+              }
+            },
+            {
+              "productNumber": "001.033.43",
+              "variant": "czarnobrąz",
+              "price": {
+                "integer": 279
+              },
+              "images": {
+                "main": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154559_pe886158_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154559_pe886158_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154559_pe886158_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154559_pe886158_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154559_pe886158_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154559_pe886158_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154559_pe886158_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154559_pe886158_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154559_pe886158_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154559_pe886158_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154559_pe886158_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154559_pe886158_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154559_pe886158_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154559_pe886158_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154559_pe886158_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154559_pe886158_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_1": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154560_pe886160_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154560_pe886160_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154560_pe886160_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154560_pe886160_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154560_pe886160_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154560_pe886160_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154560_pe886160_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154560_pe886160_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154560_pe886160_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154560_pe886160_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154560_pe886160_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154560_pe886160_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154560_pe886160_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154560_pe886160_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154560_pe886160_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154560_pe886160_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "imgHover": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154561_pe886159_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154561_pe886159_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154561_pe886159_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154561_pe886159_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154561_pe886159_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154561_pe886159_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154561_pe886159_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154561_pe886159_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154561_pe886159_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154561_pe886159_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154561_pe886159_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154561_pe886159_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154561_pe886159_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154561_pe886159_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154561_pe886159_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154561_pe886159_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_2": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154229_pe885950_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154229_pe885950_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154229_pe885950_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154229_pe885950_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154229_pe885950_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154229_pe885950_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154229_pe885950_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154229_pe885950_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154229_pe885950_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154229_pe885950_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154229_pe885950_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154229_pe885950_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154229_pe885950_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154229_pe885950_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154229_pe885950_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__1154229_pe885950_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_3": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__0251045_pe389683_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__0251045_pe389683_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__0251045_pe389683_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__0251045_pe389683_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__0251045_pe389683_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__0251045_pe389683_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__0251045_pe389683_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__0251045_pe389683_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__0251045_pe389683_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__0251045_pe389683_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__0251045_pe389683_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__0251045_pe389683_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__0251045_pe389683_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__0251045_pe389683_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__0251045_pe389683_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-czarnobraz__0251045_pe389683_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_4": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=5",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xxxs 160w"
+                  }
+                }
+              }
+            },
+            {
+              "productNumber": "101.786.01",
+              "variant": "okleina dębowa bejcowana na biało",
+              "price": {
+                "integer": 279
+              },
+              "images": {
+                "main": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154592_pe886219_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154592_pe886219_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154592_pe886219_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154592_pe886219_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154592_pe886219_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154592_pe886219_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154592_pe886219_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154592_pe886219_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154592_pe886219_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154592_pe886219_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154592_pe886219_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154592_pe886219_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154592_pe886219_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154592_pe886219_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154592_pe886219_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154592_pe886219_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_1": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154589_pe886217_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154589_pe886217_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154589_pe886217_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154589_pe886217_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154589_pe886217_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154589_pe886217_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154589_pe886217_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154589_pe886217_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154589_pe886217_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154589_pe886217_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154589_pe886217_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154589_pe886217_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154589_pe886217_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154589_pe886217_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154589_pe886217_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154589_pe886217_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "imgHover": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154590_pe886216_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154590_pe886216_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154590_pe886216_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154590_pe886216_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154590_pe886216_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154590_pe886216_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154590_pe886216_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154590_pe886216_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154590_pe886216_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154590_pe886216_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154590_pe886216_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154590_pe886216_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154590_pe886216_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154590_pe886216_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154590_pe886216_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__1154590_pe886216_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_2": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__0381120_pe555870_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__0381120_pe555870_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__0381120_pe555870_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__0381120_pe555870_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__0381120_pe555870_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__0381120_pe555870_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__0381120_pe555870_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__0381120_pe555870_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__0381120_pe555870_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__0381120_pe555870_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__0381120_pe555870_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__0381120_pe555870_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__0381120_pe555870_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__0381120_pe555870_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__0381120_pe555870_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-debowa-bejcowana-na-bialo__0381120_pe555870_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_3": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=5",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xxxs 160w"
+                  }
+                }
+              }
+            },
+            {
+              "productNumber": "503.365.52",
+              "variant": "połysk biały",
+              "price": {
+                "integer": 299
+              },
+              "images": {
+                "main": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154579_pe886211_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154579_pe886211_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154579_pe886211_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154579_pe886211_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154579_pe886211_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154579_pe886211_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154579_pe886211_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154579_pe886211_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154579_pe886211_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154579_pe886211_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154579_pe886211_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154579_pe886211_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154579_pe886211_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154579_pe886211_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154579_pe886211_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154579_pe886211_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_1": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154577_pe886210_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154577_pe886210_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154577_pe886210_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154577_pe886210_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154577_pe886210_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154577_pe886210_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154577_pe886210_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154577_pe886210_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154577_pe886210_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154577_pe886210_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154577_pe886210_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154577_pe886210_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154577_pe886210_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154577_pe886210_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154577_pe886210_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154577_pe886210_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "imgHover": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154578_pe886212_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154578_pe886212_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154578_pe886212_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154578_pe886212_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154578_pe886212_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154578_pe886212_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154578_pe886212_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154578_pe886212_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154578_pe886212_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154578_pe886212_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154578_pe886212_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154578_pe886212_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154578_pe886212_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154578_pe886212_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154578_pe886212_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154578_pe886212_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_2": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154580_pe886213_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154580_pe886213_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154580_pe886213_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154580_pe886213_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154580_pe886213_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154580_pe886213_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154580_pe886213_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154580_pe886213_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154580_pe886213_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154580_pe886213_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154580_pe886213_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154580_pe886213_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154580_pe886213_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154580_pe886213_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154580_pe886213_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-polysk-bialy__1154580_pe886213_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_3": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=5",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xxxs 160w"
+                  }
+                }
+              }
+            },
+            {
+              "productNumber": "105.690.77",
+              "variant": "szarozielony",
+              "limitedEdition": true,
+              "price": {
+                "integer": 279
+              },
+              "newTag": {
+                "variant": "orange"
+              },
+              "images": {
+                "main": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1182930_pe897352_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1182930_pe897352_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1182930_pe897352_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1182930_pe897352_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1182930_pe897352_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1182930_pe897352_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1182930_pe897352_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1182930_pe897352_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1182930_pe897352_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1182930_pe897352_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1182930_pe897352_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1182930_pe897352_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1182930_pe897352_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1182930_pe897352_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1182930_pe897352_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1182930_pe897352_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "imgHover": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216313_pe912378_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216313_pe912378_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216313_pe912378_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216313_pe912378_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216313_pe912378_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216313_pe912378_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216313_pe912378_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216313_pe912378_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216313_pe912378_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216313_pe912378_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216313_pe912378_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216313_pe912378_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216313_pe912378_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216313_pe912378_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216313_pe912378_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216313_pe912378_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_1": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216303_pe912374_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216303_pe912374_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216303_pe912374_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216303_pe912374_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216303_pe912374_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216303_pe912374_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216303_pe912374_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216303_pe912374_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216303_pe912374_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216303_pe912374_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216303_pe912374_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216303_pe912374_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216303_pe912374_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216303_pe912374_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216303_pe912374_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216303_pe912374_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_2": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216312_pe912379_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216312_pe912379_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216312_pe912379_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216312_pe912379_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216312_pe912379_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216312_pe912379_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216312_pe912379_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216312_pe912379_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216312_pe912379_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216312_pe912379_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216312_pe912379_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216312_pe912379_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216312_pe912379_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216312_pe912379_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216312_pe912379_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-szarozielony__1216312_pe912379_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_3": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=5",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-komoda-2-szuflady-bialy__0757021_pe749091_s5.jpg?f=xxxs 160w"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rama łóżka z 2 pojemnikami",
+      "variants": ["biały", "czarnobrąz", "okleina dębowa bejcowana na biało"],
+      "additionalInfo": "Materac i pościel sprzedawane są oddzielnie.",
+      "description": {
+        "variant_1": "Proste wzornictwo w okleinie z litego drewna. Ustaw łóżko wolnostojąco lub z wezgłowiem do ściany. W komplecie z przestronnymi pojemnikami, które płynnie wysuwają się na kółkach.",
+        "variant_2": "Proste wzornictwo w okleinie z litego drewna. Ustaw łóżko wolnostojąco lub z wezgłowiem do ściany. W komplecie z przestronnymi pojemnikami, które płynnie wysuwają się na kółkach."
+      },
+      "rating": {
+        "rate": 5,
+        "quantity": 119
+      },
+      "sizes": [
+        {
+          "size": "120x200 cm",
+          "thumbnails": {
+            "variant_1": {
+              "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154401_pe886067_s5.jpg?f=xu",
+              "srcSet": "https://www.ikea.com/pl/pl/images/products malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154401_pe886067_s5.jpg?f=u 2x, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154401_pe886067_s5.jpg?f=xu"
+            },
+            "variant_2": {
+              "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154400_pe886048_s5.jpg?f=xu",
+              "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154400_pe886048_s5.jpg?f=u 2x, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154400_pe886048_s5.jpg?f=xu"
+            }
+          },
+          "variants": [
+            {
+              "productNumber": "490.477.46",
+              "variant": "biały",
+              "price": {
+                "integer": 1099
+              },
+              "oldPriceTag": {
+                "variant": "red",
+                "integer": 1299
+              },
+              "images": {
+                "main": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154401_pe886067_s5.jpg?f=5",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154401_pe886067_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154401_pe886067_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154401_pe886067_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154401_pe886067_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154401_pe886067_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154401_pe886067_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154401_pe886067_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154401_pe886067_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154401_pe886067_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154401_pe886067_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154401_pe886067_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154401_pe886067_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154401_pe886067_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154401_pe886067_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154401_pe886067_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "video": {
+                  "src": "https://www.ikea.com/pvid/1101788_fe001841.mp4?imwidth=800",
+                  "type": "video/mp4",
+                  "poster": "https://www.ikea.com/pvid/1101788_fe001841.jpg?f=m"
+                },
+                "image_1": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "imgHover": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101563_pe866738_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101563_pe866738_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101563_pe866738_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101563_pe866738_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101563_pe866738_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101563_pe866738_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101563_pe866738_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101563_pe866738_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101563_pe866738_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101563_pe866738_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101563_pe866738_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101563_pe866738_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101563_pe866738_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101563_pe866738_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101563_pe866738_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101563_pe866738_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_2": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_3": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_4": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_5": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_6": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_7": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=xxxs 160w"
+                  }
+                }
+              }
+            },
+            {
+              "productNumber": "091.573.03",
+              "variant": "okleina dębowa bejcowana na biało",
+              "price": {
+                "integer": 1249
+              },
+              "oldPriceTag": {
+                "variant": "red",
+                "integer": 1449
+              },
+              "images": {
+                "main": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154400_pe886048_s5.jpg?f=5",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154400_pe886048_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154400_pe886048_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154400_pe886048_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154400_pe886048_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154400_pe886048_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154400_pe886048_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154400_pe886048_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154400_pe886048_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154400_pe886048_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154400_pe886048_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154400_pe886048_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154400_pe886048_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154400_pe886048_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154400_pe886048_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154400_pe886048_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "video": {
+                  "src": "https://www.ikea.com/pvid/1101788_fe001841.mp4?imwidth=800",
+                  "type": "video/mp4",
+                  "poster": "https://www.ikea.com/pvid/1101788_fe001841.jpg?f=m"
+                },
+                "image_1": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "imgHover": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101549_pe866676_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101549_pe866676_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101549_pe866676_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101549_pe866676_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101549_pe866676_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101549_pe866676_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101549_pe866676_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101549_pe866676_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101549_pe866676_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101549_pe866676_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101549_pe866676_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101549_pe866676_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101549_pe866676_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101549_pe866676_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101549_pe866676_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101549_pe866676_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_2": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101513_pe866692_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101513_pe866692_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101513_pe866692_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101513_pe866692_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101513_pe866692_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101513_pe866692_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101513_pe866692_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101513_pe866692_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101513_pe866692_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101513_pe866692_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101513_pe866692_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101513_pe866692_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101513_pe866692_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101513_pe866692_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101513_pe866692_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1101513_pe866692_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_3": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1092109_pe863023_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1092109_pe863023_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1092109_pe863023_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1092109_pe863023_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1092109_pe863023_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1092109_pe863023_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1092109_pe863023_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1092109_pe863023_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1092109_pe863023_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1092109_pe863023_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1092109_pe863023_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1092109_pe863023_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1092109_pe863023_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1092109_pe863023_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1092109_pe863023_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1092109_pe863023_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_4": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154407_pe886054_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154407_pe886054_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154407_pe886054_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154407_pe886054_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154407_pe886054_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154407_pe886054_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154407_pe886054_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154407_pe886054_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154407_pe886054_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154407_pe886054_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154407_pe886054_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154407_pe886054_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154407_pe886054_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154407_pe886054_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154407_pe886054_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154407_pe886054_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_5": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__0410923_pe577789_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__0410923_pe577789_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__0410923_pe577789_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__0410923_pe577789_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__0410923_pe577789_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__0410923_pe577789_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__0410923_pe577789_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__0410923_pe577789_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__0410923_pe577789_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__0410923_pe577789_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__0410923_pe577789_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__0410923_pe577789_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__0410923_pe577789_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__0410923_pe577789_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__0410923_pe577789_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__0410923_pe577789_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_6": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_7": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1088659_pe861271_s5.jpg?f=xxxs 160w"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "size": "90x200 cm",
+          "thumbnails": {
+            "variant_1": {
+              "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154404_pe886051_s5.jpg?f=xu",
+              "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154404_pe886051_s5.jpg?f=u 2x, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154404_pe886051_s5.jpg?f=xu"
+            },
+            "variant_2": {
+              "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-czarnybraz-loenset__1154390_pe886039_s5.jpg?f=xu",
+              "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-czarnybraz-loenset__1154390_pe886039_s5.jpg?f=u 2x, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-czarnybraz-loenset__1154390_pe886039_s5.jpg?f=xu"
+            },
+            "variant_3": {
+              "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154391_pe886040_s5.jpg?f=xu",
+              "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154391_pe886040_s5.jpg?f=u 2x, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154391_pe886040_s5.jpg?f=xu"
+            }
+          },
+          "variants": [
+            {
+              "productNumber": "890.327.38",
+              "variant": "biały",
+              "price": {
+                "integer": 974
+              },
+              "oldPriceTag": {
+                "variant": "red",
+                "integer": 1124
+              },
+              "images": {
+                "main": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154404_pe886051_s5.jpg?f=5",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154404_pe886051_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154404_pe886051_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154404_pe886051_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154404_pe886051_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154404_pe886051_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154404_pe886051_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154404_pe886051_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154404_pe886051_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154404_pe886051_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154404_pe886051_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154404_pe886051_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154404_pe886051_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154404_pe886051_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154404_pe886051_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154404_pe886051_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "video": {
+                  "src": "https://www.ikea.com/pvid/1101788_fe001841.mp4?imwidth=800",
+                  "type": "video/mp4",
+                  "poster": "https://www.ikea.com/pvid/1101788_fe001841.jpg?f=m"
+                },
+                "image_1": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "imgHover": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101571_pe866746_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101571_pe866746_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101571_pe866746_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101571_pe866746_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101571_pe866746_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101571_pe866746_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101571_pe866746_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101571_pe866746_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101571_pe866746_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101571_pe866746_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101571_pe866746_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101571_pe866746_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101571_pe866746_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101571_pe866746_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101571_pe866746_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101571_pe866746_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_2": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_3": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_4": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_5": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_6": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_7": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=xxxs 160w"
+                  }
+                }
+              }
+            },
+            {
+              "productNumber": "790.327.34",
+              "variant": "czarnobrąz",
+              "price": {
+                "integer": 1124
+              },
+              "oldPriceTag": {
+                "variant": "red",
+                "integer": 1274
+              },
+              "images": {
+                "main": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154390_pe886039_s5.jpg?f=5",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154390_pe886039_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154390_pe886039_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154390_pe886039_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154390_pe886039_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154390_pe886039_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154390_pe886039_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154390_pe886039_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154390_pe886039_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154390_pe886039_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154390_pe886039_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154390_pe886039_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154390_pe886039_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154390_pe886039_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154390_pe886039_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154390_pe886039_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "video": {
+                  "src": "https://www.ikea.com/pvid/1101788_fe001841.mp4?imwidth=800",
+                  "type": "video/mp4",
+                  "poster": "https://www.ikea.com/pvid/1101788_fe001841.jpg?f=m"
+                },
+                "image_1": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "imgHover": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101510_pe866689_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101510_pe866689_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101510_pe866689_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101510_pe866689_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101510_pe866689_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101510_pe866689_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101510_pe866689_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101510_pe866689_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101510_pe866689_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101510_pe866689_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101510_pe866689_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101510_pe866689_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101510_pe866689_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101510_pe866689_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101510_pe866689_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101510_pe866689_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_2": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101511_pe866690_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101511_pe866690_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101511_pe866690_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101511_pe866690_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101511_pe866690_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101511_pe866690_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101511_pe866690_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101511_pe866690_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101511_pe866690_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101511_pe866690_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101511_pe866690_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101511_pe866690_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101511_pe866690_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101511_pe866690_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101511_pe866690_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101511_pe866690_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_3": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101579_pe866753_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_4": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154405_pe886052_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154405_pe886052_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154405_pe886052_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154405_pe886052_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154405_pe886052_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154405_pe886052_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154405_pe886052_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154405_pe886052_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_5": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860721_pe566695_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_6": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_7": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=xxxs 160w"
+                  }
+                }
+              }
+            },
+            {
+              "productNumber": "591.573.05",
+              "variant": "okleina dębowa bejcowana na biało",
+              "price": {
+                "integer": 1124
+              },
+              "oldPriceTag": {
+                "variant": "red",
+                "integer": 1274
+              },
+              "images": {
+                "main": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154391_pe886040_s5.jpg?f=5",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154391_pe886040_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154391_pe886040_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154391_pe886040_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154391_pe886040_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154391_pe886040_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154391_pe886040_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154391_pe886040_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154391_pe886040_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154391_pe886040_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154391_pe886040_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154391_pe886040_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154391_pe886040_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154391_pe886040_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154391_pe886040_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-okleina-debowa-bejcowana-na-bialo-loenset__1154391_pe886040_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "video": {
+                  "src": "https://www.ikea.com/pvid/1101788_fe001841.mp4?imwidth=800",
+                  "type": "video/mp4",
+                  "poster": "https://www.ikea.com/pvid/1101788_fe001841.jpg?f=m"
+                },
+                "image_1": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0422282_pe578450_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "imgHover": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101512_pe866691_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101512_pe866691_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101512_pe866691_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101512_pe866691_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101512_pe866691_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101512_pe866691_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101512_pe866691_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101512_pe866691_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101512_pe866691_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101512_pe866691_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101512_pe866691_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101512_pe866691_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101512_pe866691_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101512_pe866691_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101512_pe866691_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101512_pe866691_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_2": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101572_pe866747_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_3": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1101601_pe866772_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_4": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__1154396_pe886045_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_5": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0860683_pe566696_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_6": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0859229_pe287495_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0859229_pe287495_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0859229_pe287495_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0859229_pe287495_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0859229_pe287495_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0859229_pe287495_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0859229_pe287495_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0859229_pe287495_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0859229_pe287495_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0859229_pe287495_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0859229_pe287495_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0859229_pe287495_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0859229_pe287495_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0859229_pe287495_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0859229_pe287495_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0859229_pe287495_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_7": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0243791_pe383078_s5.jpg?f=xxxs 160w"
+                  }
+                },
+                "image_8": {
+                  "thumbnail": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=s",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=xxxs 160w"
+                  },
+                  "gallery": {
+                    "src": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=l",
+                    "srcSet": "https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=xl 750w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=l 700w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=m 600w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=s 500w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=xs 400w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=xxs 300w, https://www.ikea.com/pl/pl/images/products/malm-rama-lozka-z-2-pojemnikami-bialy-loenset__0738417_pe741437_s5.jpg?f=xxxs 160w"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
