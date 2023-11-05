@@ -1,6 +1,7 @@
 {
   "collection": "BAGGANÄS",
-  "name": "Uchwyt",
+  "name": "uchwyt",
+  "nameToDisplay": "Uchwyt",
   "productNumber": "703.384.18",
   "size": "143 mm",
   "price": {
@@ -17,7 +18,8 @@
     },
     "variants": {
       "czarny": "80338413",
-      "kolor-mosiadzu": "00338407"
+      "kolor-mosiadzu": "00338407",
+      "stal-nierdz": "70338418"
     }
   },
   "description": "Gałki i uchwyty są jak wisienka na torcie - mały szczegół, który robi wielką różnicę. Seria BAGGANÄS oferuje ponadczasowy, szlachetny wygląd, który pasuje zarówno do domów w nowoczesnym, jak i tradycyjnym stylu.",

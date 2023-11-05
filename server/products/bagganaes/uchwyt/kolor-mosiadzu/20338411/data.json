@@ -1,6 +1,7 @@
 {
   "collection": "BAGGANÄS",
-  "name": "Uchwyt",
+  "name": "uchwyt",
+  "nameToDisplay": "Uchwyt",
   "productNumber": "203.384.11",
   "size": "335 mm",
   "price": {
@@ -17,6 +18,7 @@
     },
     "variants": {
       "czarny": "60338414",
+      "kolor-mosiadzu": "20338411",
       "stal-nierdz": "50338419"
     }
   },
