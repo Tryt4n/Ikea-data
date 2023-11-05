@@ -7,15 +7,17 @@
     "integer": 25,
     "quantity": 2
   },
-  "variants": ["czarny", "kolor mosiądzu", "stal nierdz"],
+  "variants": ["czarny", "kolor-mosiadzu", "stal-nierdz"],
+  "variantsName": ["czarny", "kolor mosiądzu", "stal nierdz"],
   "variant": "czarny",
+  "variantName": "czarny",
   "relatedProducts": {
     "sizes": {
       "335 mm": "60338414"
     },
     "variants": {
-      "kolor mosiądzu": "00338407",
-      "stal nierdz": "70338418"
+      "kolor-mosiadzu": "00338407",
+      "stal-nierdz": "70338418"
     }
   },
   "description": "Gałki i uchwyty są jak wisienka na torcie - mały szczegół, który robi wielką różnicę. Seria BAGGANÄS oferuje ponadczasowy, szlachetny wygląd, który pasuje zarówno do domów w nowoczesnym, jak i tradycyjnym stylu.",
