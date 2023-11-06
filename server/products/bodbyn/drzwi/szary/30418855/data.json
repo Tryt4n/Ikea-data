@@ -1,16 +1,20 @@
 {
   "collection": "BODBYN",
-  "name": "Drzwi",
+  "name": "drzwi",
+  "nameToDisplay": "Drzwi",
   "productNumber": "304.188.55",
   "size": "30x60 cm",
   "price": {
     "integer": 105
   },
   "variants": ["kremowy", "szary"],
+  "variantsName": ["kremowy", "szary"],
   "variant": "szary",
-  "relatedProducts": [
-    {
+  "variantName": "szary",
+  "relatedProducts": {
+    "sizes": {
       "20x80 cm": "80221031",
+      "30x60 cm": "30418855",
       "30x80 cm": "90418857",
       "40x40 cm": "90221035",
       "40x60 cm": "70221036",
@@ -25,8 +29,12 @@
       "60x120 cm": "70221055",
       "60x140 cm": "10221039",
       "60x200 cm": "90221040"
+    },
+    "variants": {
+      "kremowy": "10418856",
+      "szary": "30418855"
     }
-  ],
+  },
   "description": "Klasyczna ekspresja w delikatnie szarym kolorze z fazowanymi panelami, które tworzą odważny charakter z ciepłą, przyjazną atmosferą. Fronty BODBYN są łatwe do utrzymania w czystości dzięki gładkiej, lakierowanej powierzchni.",
   "rating": {
     "rate": 5,

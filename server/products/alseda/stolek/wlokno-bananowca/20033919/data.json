@@ -1,13 +1,16 @@
 {
   "collection": "ALSEDA",
-  "name": "Stołek",
+  "name": "stolek",
+  "nameToDisplay": "Stołek",
   "productNumber": "200.339.19",
   "size": "universal",
   "price": {
     "integer": 159
   },
-  "variants": ["włókno bananowca"],
-  "variant": "włókno bananowca",
+  "variants": ["wlokno-bananowca"],
+  "variantsName": ["włókno bananowca"],
+  "variant": "wlokno-bananowca",
+  "variantName": "włókno bananowca",
   "relatedProducts": [],
   "description": "Ręcznie wyplatany przez doświadczonych rzemieślników, dzięki czemu każdy stołek ALSEDA jest wyjątkowy.",
   "rating": {

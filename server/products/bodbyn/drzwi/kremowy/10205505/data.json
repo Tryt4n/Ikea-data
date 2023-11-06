@@ -1,15 +1,18 @@
 {
   "collection": "BODBYN",
-  "name": "Drzwi",
+  "name": "drzwi",
+  "nameToDisplay": "Drzwi",
   "productNumber": "102.055.05",
   "size": "60x40 cm",
   "price": {
     "integer": 115
   },
   "variants": ["kremowy", "szary"],
+  "variantsName": ["kremowy", "szary"],
   "variant": "kremowy",
-  "relatedProducts": [
-    {
+  "variantName": "kremowy",
+  "relatedProducts": {
+    "sizes": {
       "20x80 cm": "10205483",
       "30x60 cm": "10418856",
       "30x80 cm": "70418858",
@@ -19,14 +22,19 @@
       "40x100 cm": "60212419",
       "40x140 cm": "60205490",
       "40x200 cm": "00205488",
+      "60x40 cm": "10205505",
       "60x60 cm": "60205485",
       "60x80 cm": "50205481",
       "60x100 cm": "40205491",
       "60x120 cm": "80205502",
       "60x140 cm": "80205489",
       "60x200 cm": "20205487"
+    },
+    "variants": {
+      "kremowy": "10205505",
+      "szary": "70221041"
     }
-  ],
+  },
   "description": "Klasyczna ekspresja w kolorze złamanej bieli z fazowanymi panelami, które tworzą tradycyjny charakter o ciepłej i przyjaznej atmosferze. Fronty BODBYN są łatwe do utrzymania czystości dzięki gładkiej, lakierowanej powierzchni.",
   "rating": {
     "rate": 5,
