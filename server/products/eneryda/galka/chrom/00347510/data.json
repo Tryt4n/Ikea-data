@@ -1,0 +1,48 @@
+{
+  "collection": "ENERYDA",
+  "name": "galka",
+  "nameToDisplay": "gałka",
+  "productNumber": "003.475.10",
+  "size": "27 mm",
+  "price": {
+    "integer": 15,
+    "quantity": 2
+  },
+  "variants": ["chrom", "czarny", "kolor-mosiadzu"],
+  "variantsName": ["chrom", "czarny", "kolor mosiądzu"],
+  "variant": "chrom",
+  "variantName": "chrom",
+  "relatedProducts": {
+    "sizes": {
+      "20 mm": "50347503",
+      "27 mm": "00347510",
+      "35 mm": "80347511"
+    },
+    "variants": {
+      "chrom": "00347510",
+      "czarny": "80347506",
+      "kolor-mosiadzu": "40347508"
+    }
+  },
+  "description": "Gałki i uchwyty są jak wisienka na torcie - mały szczegół, który robi wielką różnicę. Seria ENERYDA oferuje różne kształty i kolory - wszystkie mają tradycyjny charakter i trwałe wzornictwo.",
+  "rating": {
+    "rate": 5,
+    "quantity": 208
+  },
+  "thumbnails": {
+    "variant_1": "0754159_pe747801_s5.jpg",
+    "variant_2": "0754157_pe747799_s5.jpg",
+    "variant_3": "0754158_pe747804_s5.jpg"
+  },
+  "images": {
+    "main": "0754159_pe747801_s5.jpg",
+    "imgHover": "0718635_pe731627.jpg",
+    "image_1": "0872095_pe719910_s5.jpg"
+  },
+  "additionalInfo": {
+    "material": {
+      "header": "Czym jest aluminium?",
+      "description": "Aluminium, mające bardzo szerokie zastosowanie, jest drugim najpopularniejszym metalem na świecie. Pola ustępuje jedynie żelazu. Aluminium jest lekkie i łatwo się je formuje, a mimo to pozostaje trwałe i wytrzymałe. W naszym asortymencie można je znaleźć m.in. w przyborach kuchennych, karniszach i świecznikach na tealighty. Sporą zaletą aluminium jest możliwość wielokrotnego poddawania go recyklingowi bez utraty jego właściwości. To istotne, ponieważ recykling pochłania zaledwie ułamek energii niezbędnej do wyprodukowania aluminium z surowca pierwotnego."
+    }
+  }
+}

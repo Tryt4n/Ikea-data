@@ -1,0 +1,36 @@
+{
+  "collection": "GRADVIS",
+  "name": "wazon-z-metalowym-wkladem",
+  "nameToDisplay": "Wazon z metalowym wkładem",
+  "productNumber": "405.029.19",
+  "size": "21 cm",
+  "price": {
+    "integer": 49,
+    "decimal": 99
+  },
+  "variants": ["szklo-bezbarwne-zloty-kolor"],
+  "variantsName": ["szkło bezbarwne/złoty kolor"],
+  "variant": "szklo-bezbarwne-zloty-kolor",
+  "variantName": "szkło bezbarwne/złoty kolor",
+  "description": "Wazon GRADVIS ma stonowane kolory, okrągłe kształty, piękne żłobienia – i zdejmowaną pokrywkę z otworem, dzięki któremu pojedyncza łodyga kwiatowa lub gałązka stoją prosto. Równie piękny z kwiatami, jak samodzielnie.",
+  "rating": {
+    "rate": 5,
+    "quantity": 9
+  },
+  "thumbnails": {
+    "variant_1": "1066310_pe852371_s5.jpg"
+  },
+  "images": {
+    "main": "1066310_pe852371_s5.jpg",
+    "hover": "1066308_pe852370_s5.jpg",
+    "image_1": "1079717_ph182882_s5.jpg",
+    "image_2": "1066309_pe852372_s5.jpg"
+  },
+  "additionalInfo": {
+    "designerThoughts": {
+      "header": "Myśli projektanta",
+      "description": "„Mieszkam i pracuję w otoczeniu przyrody i uwielbiam zbierać kwiaty w swoim ogrodzie. Gdy projektowałam serię GRADVIS, eksperymentowałam z wykorzystaniem własnej kolekcji wazonów i doniczek. Posługując się różnymi materiałami i kolorami, chciałam stworzyć coś bardziej dynamicznego i mniej oczywistego, co wyglądałoby równie ładnie nawet bez roślin. Mam nadzieję, że seria GRADVIS zainspiruje ludzi do zaproszenia do siebie odrobiny natury, a obecność zieleni i pięknych rzeczy będzie codziennie poprawiać im humor”.",
+      "subDescription": "Projektantka Inma Bermúdez"
+    }
+  }
+}

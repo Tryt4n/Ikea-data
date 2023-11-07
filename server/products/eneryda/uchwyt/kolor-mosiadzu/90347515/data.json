@@ -1,0 +1,42 @@
+{
+  "collection": "ENERYDA",
+  "name": "uchwyt",
+  "nameToDisplay": "Uchwyt",
+  "productNumber": "903.475.15",
+  "size": "89 mm",
+  "price": {
+    "integer": 20,
+    "quantity": 2
+  },
+  "variants": ["chrom", "czarny", "kolor-mosiadzu"],
+  "variantsName": ["chrom", "czarny", "kolor mosiądzu"],
+  "variant": "kolor-mosiadzu",
+  "variantName": "kolor-mosiadzu",
+  "relatedProducts": {
+    "variants": {
+      "chrom": "40347513",
+      "czarny": "50347517",
+      "kolor-mosiadzu": "90347515"
+    }
+  },
+  "description": "Gałki i uchwyty są jak wisienka na torcie - mały szczegół, który robi wielką różnicę. Seria ENERYDA oferuje różne kształty i kolory - wszystkie mają tradycyjny charakter i trwałe wzornictwo.",
+  "rating": {
+    "rate": 5,
+    "quantity": 31
+  },
+  "thumbnails": {
+    "variant_1": "0754247_pe747842_s5.jpg",
+    "variant_2": "0754245_pe747837_s5.jpg",
+    "variant_3": "0754245_pe747837_s5.jpg"
+  },
+  "images": {
+    "main": "0754245_pe747837_s5.jpg",
+    "imgHover": "0718668_pe731622_s5.jpg"
+  },
+  "additionalInfo": {
+    "material": {
+      "header": "Czym jest aluminium?",
+      "description": "Aluminium, mające bardzo szerokie zastosowanie, jest drugim najpopularniejszym metalem na świecie. Pola ustępuje jedynie żelazu. Aluminium jest lekkie i łatwo się je formuje, a mimo to pozostaje trwałe i wytrzymałe. W naszym asortymencie można je znaleźć m.in. w przyborach kuchennych, karniszach i świecznikach na tealighty. Sporą zaletą aluminium jest możliwość wielokrotnego poddawania go recyklingowi bez utraty jego właściwości. To istotne, ponieważ recykling pochłania zaledwie ułamek energii niezbędnej do wyprodukowania aluminium z surowca pierwotnego."
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "collection": "FEJKA",
+  "name": "sztuczna-roslina-doniczkowa",
+  "nameToDisplay": "Sztuczna roślina doniczkowa",
+  "productNumber": "403.495.31",
+  "size": "9 cm",
+  "price": {
+    "integer": 19,
+    "decimal": 99
+  },
+  "oldPriceTag": {
+    "variant": "red",
+    "integer": 24,
+    "decimal": 99
+  },
+  "variants": ["do-wewnatrz-na-zewnatrz-wiszacy"],
+  "variantsName": ["do wewnątrz/na zewnątrz/wiszący"],
+  "variant": "do-wewnatrz-na-zewnatrz-wiszacy",
+  "variantName": "do wewnątrz/na zewnątrz/wiszący",
+  "description": "Sztuczne rośliny doniczkowe FEJKA, które nie wymagają smykałki do ogrodnictwa. Idealne, gdy masz coś lepszego do roboty niż podlewanie roślin i usuwanie uschniętych liści. Wszyscy dadzą się nabrać, bo wyglądają jak żywe.",
+  "rating": {
+    "rate": 5,
+    "quantity": 255
+  },
+  "thumbnails": {
+    "variant_1": "0748917_pe745318_s5.jpg"
+  },
+  "images": {
+    "main": "0748917_pe745318_s5.jpg",
+    "image_1": "0748530_pe745055_s5.jpg",
+    "image_2": "0748531_pe745054_s5.jpg",
+    "hover": "0748529_pe745052_s5.jpg",
+    "image_3": "0690584_ph151022_s5.jpg",
+    "image_4": "0901291_pe643381_s5.jpg",
+    "image_5": "0945937_pe797831_s5.jpg"
+  },
+  "additionalInfo": {
+    "function": {
+      "header": "Gwarantowana zieleń, bez wysiłku",
+      "description": "Sztuczne rośliny doniczkowe pomagają stworzyć ten sam przytulny, zielony klimat, co prawdziwe rośliny – ale nie trzeba ich podlewać ani o nie dbać. Możesz umieścić je w ciemnym kącie, wyjechać na wakacje, albo zwyczajnie o nich zapomnieć – ciągle będą wyglądać świeżo."
+    }
+  }
+}
