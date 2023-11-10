@@ -26,11 +26,12 @@
     "image_1": "1079717_ph182882_s5.jpg",
     "image_2": "1066309_pe852372_s5.jpg"
   },
-  "additionalInfo": {
-    "designerThoughts": {
+  "additionalInfo": [
+    {
+      "title": "Myśli projektanta",
       "header": "Myśli projektanta",
       "description": "„Mieszkam i pracuję w otoczeniu przyrody i uwielbiam zbierać kwiaty w swoim ogrodzie. Gdy projektowałam serię GRADVIS, eksperymentowałam z wykorzystaniem własnej kolekcji wazonów i doniczek. Posługując się różnymi materiałami i kolorami, chciałam stworzyć coś bardziej dynamicznego i mniej oczywistego, co wyglądałoby równie ładnie nawet bez roślin. Mam nadzieję, że seria GRADVIS zainspiruje ludzi do zaproszenia do siebie odrobiny natury, a obecność zieleni i pięknych rzeczy będzie codziennie poprawiać im humor”.",
       "subDescription": "Projektantka Inma Bermúdez"
     }
-  }
+  ]
 }

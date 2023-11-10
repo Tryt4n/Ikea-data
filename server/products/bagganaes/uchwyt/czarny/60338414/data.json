@@ -38,10 +38,11 @@
     "image_1": "0532769_pe648264_s5.jpg",
     "imgHover": "0718655_pe731606_s5.jpg"
   },
-  "additionalInfo": {
-    "material": {
+  "additionalInfo": [
+    {
+      "title": "Materiał",
       "header": "Czym jest stal?",
       "description": "Stal imponuje niecodziennymi właściwościami – można ją rozciągać i kształtować, a mimo to nie traci wytrzymałości. Bez stali trudno zbudować wieżowiec czy wyprodukować samochód. Jest też powszechnie stosowana w ramach łóżek i meblach ogrodowych. Branża wyrobów stalowych stopniowo przestawia się na tory produkcji bardziej wydajnej energetycznie i nieustannie dąży do wzmacniania wytwarzanej stali. Można ją poddawać recyklingowi bez obaw o utratę jej właściwości, dzięki czemu stal jest obecnie jednym z najczęściej trafiających do recyklingu materiałów na świecie."
     }
-  }
+  ]
 }

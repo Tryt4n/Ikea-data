@@ -8,6 +8,7 @@
     "integer": 29,
     "decimal": 99
   },
+  "forKidsBadge": true,
   "variants": ["dinozaur-thyrannosaurus-rex"],
   "variantsName": ["Dinozaur/thyrannosaurus Rex"],
   "variant": "dinozaur-thyrannosaurus-rex",
@@ -28,14 +29,16 @@
     "image_3": "0959076_ph169537_s5.jpg",
     "image_4": "0991381_ph173494_s5.jpg"
   },
-  "additionalInfo": {
-    "quality": {
+  "additionalInfo": [
+    {
+      "title": "Jakość",
       "header": "Są urocze, ale czy bezpieczne? Oczywiście!",
       "description": "Możesz spać spokojnie, wiedząc, że wszystkie nasze produkty dla dzieci spełniają najbardziej rygorystyczne normy w zakresie zdrowia i bezpieczeństwa. Wystawiamy nasze zabawki na próbę – jedną z najcięższych na świecie (dużo cięższą niż najbardziej szalone pomysły dwulatka). Wszystko po to, by rodzice mniej się martwili, a maluchy mogły bawić się w najlepsze."
     },
-    "function": {
+    {
+      "title": "Funkcja",
       "header": "Zabawki do ciągłego przytulania",
       "description": "Wiemy, że nasze pluszowe zabawki powinny wytrzymać wiele lat czułego okazywania miłości. Właśnie dlatego wybieramy do nich odpowiednie materiały, wyszywamy im oczy, przeprowadzamy rygorystyczne testy prania i upewniamy się, że zabawki nie zawierają żadnych szkodliwych chemikaliów. Pluszaki można bez obaw prać w pralce, dzięki czemu łatwo zadbać o ich czystość i świeżość."
     }
-  }
+  ]
 }

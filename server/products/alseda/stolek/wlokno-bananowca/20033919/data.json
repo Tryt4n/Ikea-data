@@ -24,10 +24,11 @@
     "hover": "1097696_ph173556_s5.jpg",
     "image_1": "1059353_pe849594_s5.jpg"
   },
-  "additionalInfo": {
-    "material": {
+  "additionalInfo": [
+    {
+      "title": "Materiał",
       "header": "Czym jest włókno bananowca?",
       "description": "Mocne włókna bananowca są produktem ubocznym uprawy bananów. Roślina owocuje tylko raz i zamiast marnować łodygi, można wysuszyć zewnętrzne włókna, a następnie tkać i wyplatać takie przedmioty, jak kosze, podkładki na stół i meble. Stosując włókna różnych gatunków bananowca otrzymuje się naturalną różnorodność kolorów - i bardziej dynamiczny wygląd."
     }
-  }
+  ]
 }

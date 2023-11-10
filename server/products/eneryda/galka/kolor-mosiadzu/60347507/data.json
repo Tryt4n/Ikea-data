@@ -39,10 +39,11 @@
     "imgHover": "0718656_pe731625_s5.jpg",
     "image_1": "0872106_pe719927_s5.jpg"
   },
-  "additionalInfo": {
-    "material": {
+  "additionalInfo": [
+    {
+      "title": "Materiał",
       "header": "Czym jest aluminium?",
       "description": "Aluminium, mające bardzo szerokie zastosowanie, jest drugim najpopularniejszym metalem na świecie. Pola ustępuje jedynie żelazu. Aluminium jest lekkie i łatwo się je formuje, a mimo to pozostaje trwałe i wytrzymałe. W naszym asortymencie można je znaleźć m.in. w przyborach kuchennych, karniszach i świecznikach na tealighty. Sporą zaletą aluminium jest możliwość wielokrotnego poddawania go recyklingowi bez utraty jego właściwości. To istotne, ponieważ recykling pochłania zaledwie ułamek energii niezbędnej do wyprodukowania aluminium z surowca pierwotnego."
     }
-  }
+  ]
 }

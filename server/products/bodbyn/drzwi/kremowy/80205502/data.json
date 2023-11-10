@@ -52,14 +52,13 @@
     "imgHover": "0863338_pe682346_s5.jpg",
     "image_2": "1030337_ph174565_s5.jpg"
   },
-  "additionalInfo": {
-    "history": {
-      "img": "0863338_pe682346_s5.jpg",
-      "sections": [
-        {
-          "header": "Nasze spojrzenie na drewno",
-          "description": "Drewno to surowiec najczęściej kojarzony z meblami IKEA i nie bez powodu. Jest odnawialne, nadaje się do recyklingu, jest trwałe, pięknie się starzeje i jest ważną częścią naszego skandynawskiego dziedzictwa. W IKEA wierzymy, że drewno pozyskiwane w odpowiedzialny sposób jest kluczowym czynnikiem w łagodzeniu zmian klimatycznych. W 2012 roku postawiliśmy sobie za cel, aby do 2020 roku nasze drewno pochodziło z bardziej zrównoważonych źródeł. Z przyjemnością ogłaszamy, że osiągnęliśmy ten cel i dziś ponad 98% drewna stosowanego w produktach IKEA ma certyfikat FSC lub pochodzi z recyklingu."
-        },
+  "additionalInfo": [
+    {
+      "title": "Historia",
+      "header": "Nasze spojrzenie na drewno",
+      "description": "Drewno to surowiec najczęściej kojarzony z meblami IKEA i nie bez powodu. Jest odnawialne, nadaje się do recyklingu, jest trwałe, pięknie się starzeje i jest ważną częścią naszego skandynawskiego dziedzictwa. W IKEA wierzymy, że drewno pozyskiwane w odpowiedzialny sposób jest kluczowym czynnikiem w łagodzeniu zmian klimatycznych. W 2012 roku postawiliśmy sobie za cel, aby do 2020 roku nasze drewno pochodziło z bardziej zrównoważonych źródeł. Z przyjemnością ogłaszamy, że osiągnęliśmy ten cel i dziś ponad 98% drewna stosowanego w produktach IKEA ma certyfikat FSC lub pochodzi z recyklingu.",
+      "backgroundImage": "0863338_pe682346_s5.jpg",
+      "additionalSections": [
         {
           "header": "Lasy mają kluczowe znaczenie dla życia na ziemi",
           "description": "Lasy przyczyniają się do utrzymania równowagi w atmosferze, oczyszczają powietrze, którym oddychamy i są częścią cyklu hydrologicznego. Odżywiają bioróżnorodność dzikiej flory i fauny, zapewniają schronienie dla rdzennych społeczności, których byt zależy od lasów. 90% gatunków roślin i zwierząt żyjących na planecie potrzebuje lasów, aby przetrwać. Są one źródłem żywności, paliwa, drewna i wielu innych usług ekosystemu, od których zależymy. Pozyskując około 19 milionów m3 drewna okrągłego rocznie z około 50 krajów, IKEA ma znaczący wpływ na światowe zasoby i przemysł drzewny oraz ponosi ogromną odpowiedzialność za pozytywny wpływ na sposób pozyskiwania drewna. Odpowiedzialne pozyskiwanie drewna i gospodarka leśna zapewniają zaspokojenie potrzeb osób zależnych od lasów, prowadzenie działalności w sposób zrównoważony, ochronę ekosystemów leśnych i zwiększenie bioróżnorodności."
@@ -78,9 +77,10 @@
         }
       ]
     },
-    "material": {
+    {
+      "title": "Materiał",
       "header": "Co to jest płyta pilśniowa?",
       "description": "Płyta pilśniowa to stabilny i trwały materiał powstały z resztek drewna pochodzących z przemysłu drzewnego. Płytę pokrywa trwała warstwa farby lub laminatu. Rozmaite rodzaje płyt, takie jak HDF i MDF, różnią się między sobą przede wszystkim grubością, ale też odpornością na uderzenia. W ten sposób decydujemy o zastosowaniu płyt: czy powstaną z nich ramy łóżek lub sof, fronty kuchenne, drzwi do szaf, czy może coś zupełnie innego."
     }
-  }
+  ]
 }

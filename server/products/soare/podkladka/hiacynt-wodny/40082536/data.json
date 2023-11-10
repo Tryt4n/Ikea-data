@@ -29,15 +29,18 @@
     "image_3": "0947715_ph173952_s5.jpg",
     "image_4": "1062088_pe850652_s5.jpg"
   },
-  "additionalInfo": {
-    "energy": {
+  "sustainableDevelopment": true,
+  "additionalInfo": [
+    {
+      "title": "Energia i zasoby naturalne",
+      "variant": "green",
       "header": "Pięknie nakryty stół z pomocą... natury",
-      "description": "Podkładki SOARÉ wykonane są z suszonych hiacyntów wodnych, szybko rosnących roślin, które blokują cieki wodne. Wykorzystując je do wytwarzania naszych produktów, pomagamy w naturalny sposób kontrolować ich rozrost.",
-      "variant": "green"
+      "description": "Podkładki SOARÉ wykonane są z suszonych hiacyntów wodnych, szybko rosnących roślin, które blokują cieki wodne. Wykorzystując je do wytwarzania naszych produktów, pomagamy w naturalny sposób kontrolować ich rozrost."
     },
-    "material": {
+    {
+      "title": "Materiał",
       "header": "Czym jest hiacynt wodny?",
       "description": "Hiacynt wodny to roślina pływająca, która w szybkim tempie porasta cieki wodne w strefie zwrotnikowej. Gdy całkowicie pokryje powierzchnię wody, blokuje dopływ światła słonecznego i zaburza bioróżnorodność środowiska wodnego. W dodatku utrudnia żeglugę miejscowym społecznościom. Aby temu zapobiec, rzeki są z niego regularnie oczyszczane. W dodatku zebrane rośliny stanowią cenny surowiec. Z łodyg hiacynta wodnego powstaje elastyczny materiał doskonale nadający się do tkania lub wyplatania niepowtarzalnych koszy, mat i innych akcesoriów wyposażenia domu."
     }
-  }
+  ]
 }

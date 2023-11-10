@@ -26,10 +26,11 @@
     "image_1": "0896848_pe606387_s5.jpg",
     "image_2": "1190401_ph188333_s5.jpg"
   },
-  "additionalInfo": {
-    "material": {
+  "additionalInfo": [
+    {
+      "title": "Materiał",
       "header": "Czym jest turzyca (trawa morska)?",
       "description": "Turzyca, nazywana też trawą morską, naturalnie występuje na terenach przybrzeżnych w południowo-wschodniej Azji. Do naszych produktów trafia przede wszystkim turzyca uprawiana na obszarach, które zostały zalane przez morze, a przez to nie nadają się na pola ryżowe. Turzyca chętnie rośnie w słonej glebie, a nawet pomaga ją oczyszczać. Po zbiorach roślinę pozostawia się na słońcu do wyschnięcia. Tak otrzymujemy wytrzymałe włókna, które świetnie nadają się do produkcji wyrobów tkanych i plecionych o cudownych przebarwieniach, takich jak kosze czy podkładki na stół."
     }
-  }
+  ]
 }

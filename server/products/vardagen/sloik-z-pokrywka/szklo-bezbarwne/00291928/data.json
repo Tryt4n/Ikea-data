@@ -1,7 +1,7 @@
 {
   "collection": "VARDAGEN",
-  "name": "sloik",
-  "nameToDisplay": "Słoik",
+  "name": "sloik-z-pokrywka",
+  "nameToDisplay": "Słoik z pokrywką",
   "productNumber": "002.919.28",
   "size": "1.9 l",
   "price": {
@@ -42,10 +42,11 @@
     "image_11": "0929782_ph138062_s5.jpg",
     "image_12": "0929780_ph134101_s5.jpg"
   },
-  "additionalInfo": {
-    "material": {
+  "additionalInfo": [
+    {
+      "title": "Materiał",
       "header": "Czym jest szkło?",
       "description": "Szkło powstaje głównie z piasku, sody i wapna stapianych ze sobą w wysokiej temperaturze. Dzięki hartowaniu i różnym dodatkom do mieszanki otrzymuje się bardzo wytrzymałe i odporne na uderzenia szkło – nawet takie, które można przełożyć prosto z zamrażalnika do piekarnika bez obaw, że popęka. Sporą zaletą szkła jest też możliwość wielokrotnego poddawania go recyklingowi bez pogarszania jego właściwości. Do przetopienia szkła z recyklingu zużywa się o wiele mniej energii niż podczas jego pierwotnej produkcji. Dlatego chcemy docelowo oferować wyłącznie szkło pochodzące z recyklingu."
     }
-  }
+  ]
 }

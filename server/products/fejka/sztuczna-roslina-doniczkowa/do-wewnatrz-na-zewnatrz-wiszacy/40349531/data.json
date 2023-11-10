@@ -34,10 +34,11 @@
     "image_4": "0901291_pe643381_s5.jpg",
     "image_5": "0945937_pe797831_s5.jpg"
   },
-  "additionalInfo": {
-    "function": {
+  "additionalInfo": [
+    {
+      "title": "Funkcja",
       "header": "Gwarantowana zieleń, bez wysiłku",
       "description": "Sztuczne rośliny doniczkowe pomagają stworzyć ten sam przytulny, zielony klimat, co prawdziwe rośliny – ale nie trzeba ich podlewać ani o nie dbać. Możesz umieścić je w ciemnym kącie, wyjechać na wakacje, albo zwyczajnie o nich zapomnieć – ciągle będą wyglądać świeżo."
     }
-  }
+  ]
 }
