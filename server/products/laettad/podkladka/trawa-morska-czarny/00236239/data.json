@@ -1,0 +1,35 @@
+{
+  "collection": "LÄTTAD",
+  "name": "podkladka",
+  "nameToDisplay": "Podkładka",
+  "productNumber": "002.362.39",
+  "size": "37 cm",
+  "price": {
+    "integer": 19,
+    "decimal": 99
+  },
+  "variants": ["trawa-morska-czarny"],
+  "variantsName": ["trawa morska/czarny"],
+  "variant": "trawa-morska-czarny",
+  "variantName": "trawa morska/czarny",
+  "description": "Stwórz naturalną, żywą atmosferę nakrywając stół. Podkładka LÄTTAD zabezpiecza delikatną powierzchnię stołu lub obrus, może też służyć jako ozdobna podkładka w innych częściach domu.",
+  "rating": {
+    "rate": 5,
+    "quantity": 214
+  },
+  "thumbnails": {
+    "variant_1": "0711861_pe728547_s5.jpg"
+  },
+  "images": {
+    "main": "0711861_pe728547_s5.jpg",
+    "hover": "0896854_pe607503_s5.jpg",
+    "image_1": "0896848_pe606387_s5.jpg",
+    "image_2": "1190401_ph188333_s5.jpg"
+  },
+  "additionalInfo": {
+    "material": {
+      "header": "Czym jest turzyca (trawa morska)?",
+      "description": "Turzyca, nazywana też trawą morską, naturalnie występuje na terenach przybrzeżnych w południowo-wschodniej Azji. Do naszych produktów trafia przede wszystkim turzyca uprawiana na obszarach, które zostały zalane przez morze, a przez to nie nadają się na pola ryżowe. Turzyca chętnie rośnie w słonej glebie, a nawet pomaga ją oczyszczać. Po zbiorach roślinę pozostawia się na słońcu do wyschnięcia. Tak otrzymujemy wytrzymałe włókna, które świetnie nadają się do produkcji wyrobów tkanych i plecionych o cudownych przebarwieniach, takich jak kosze czy podkładki na stół."
+    }
+  }
+}

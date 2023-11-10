@@ -1,0 +1,51 @@
+{
+  "collection": "VARDAGEN",
+  "name": "sloik",
+  "nameToDisplay": "Słoik",
+  "productNumber": "002.919.28",
+  "size": "1.9 l",
+  "price": {
+    "integer": 19,
+    "decimal": 99
+  },
+  "variants": ["szklo-bezbarwne"],
+  "variantsName": ["szkło bezbarwne"],
+  "variant": "szklo-bezbarwne",
+  "variantName": "szkło bezbarwne",
+  "relatedProducts": {
+    "sizes": {
+      "1.8 l": "60291930",
+      "1.9 l": "00291928"
+    }
+  },
+  "description": "Przydziel swojemu domowemu muesli honorowe miejsce na blacie kuchennym. W tym szklanym słoiku z ciasno przylegającą pokrywką muesli pozostaje świeże przez długi czas – i od razu widzisz, kiedy pora uzupełnić.",
+  "rating": {
+    "rate": 5,
+    "quantity": 494
+  },
+  "thumbnails": {
+    "variant_1": "0713736_pe729735_s5.jpg"
+  },
+  "images": {
+    "main": "0713736_pe729735_s5.jpg",
+    "imgHover": "0930079_pe790591_s5.jpg",
+    "image_1": "0498261_ph137933_s5.jpg",
+    "image_2": "0435022_ph131635_s5.jpg",
+    "image_3": "0929784_ph140310_s5.jpg",
+    "image_4": "0929783_ph140238_s5.jpg",
+    "image_5": "0930080_pe790589_s5.jpg",
+    "image_6": "1061110_ph176386_s5.jpg",
+    "image_7": "0396992_pe574968_s5.jpg",
+    "image_8": "0685523_ph148034_s5.jpg",
+    "image_9": "0685524_ph145383_s5.jpg",
+    "image_10": "0468750_pe611664_s5.jpg",
+    "image_11": "0929782_ph138062_s5.jpg",
+    "image_12": "0929780_ph134101_s5.jpg"
+  },
+  "additionalInfo": {
+    "material": {
+      "header": "Czym jest szkło?",
+      "description": "Szkło powstaje głównie z piasku, sody i wapna stapianych ze sobą w wysokiej temperaturze. Dzięki hartowaniu i różnym dodatkom do mieszanki otrzymuje się bardzo wytrzymałe i odporne na uderzenia szkło – nawet takie, które można przełożyć prosto z zamrażalnika do piekarnika bez obaw, że popęka. Sporą zaletą szkła jest też możliwość wielokrotnego poddawania go recyklingowi bez pogarszania jego właściwości. Do przetopienia szkła z recyklingu zużywa się o wiele mniej energii niż podczas jego pierwotnej produkcji. Dlatego chcemy docelowo oferować wyłącznie szkło pochodzące z recyklingu."
+    }
+  }
+}

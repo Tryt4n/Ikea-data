@@ -1,0 +1,44 @@
+{
+  "collection": "VARDAGEN",
+  "name": "sloik",
+  "nameToDisplay": "Słoik",
+  "productNumber": "602.919.30",
+  "size": "1.8 l",
+  "price": {
+    "integer": 19,
+    "decimal": 99
+  },
+  "variants": ["szklo-bezbarwne"],
+  "variantsName": ["szkło bezbarwne"],
+  "variant": "szklo-bezbarwne",
+  "variantName": "szkło bezbarwne",
+  "relatedProducts": {
+    "sizes": {
+      "1.8 l": "60291930",
+      "1.9 l": "00291928"
+    }
+  },
+  "description": "Oczywiście trzeba się pochwalić domowymi ciasteczkami. W tym szklanym słoju z ciasno dopasowaną pokrywką masz do nich cały czas dostęp - i od razu widać, kiedy nadejdzie pora na uzupełnienie.",
+  "rating": {
+    "rate": 5,
+    "quantity": 494
+  },
+  "thumbnails": {
+    "variant_1": "0719210_pe731927_s5.jpg"
+  },
+  "images": {
+    "main": "0719210_pe731927_s5.jpg",
+    "imgHover": "0930077_pe790592_s5.jpg",
+    "image_1": "0929781_ph137793_s5.jpg",
+    "image_2": "0929782_ph138062_s5.jpg",
+    "image_3": "0930078_pe790590_s5.jpg",
+    "image_4": "0929780_ph134101_s5.jpg",
+    "image_5": "0897572_pe611660_s5.jpg"
+  },
+  "additionalInfo": {
+    "material": {
+      "header": "Czym jest szkło?",
+      "description": "Szkło powstaje głównie z piasku, sody i wapna stapianych ze sobą w wysokiej temperaturze. Dzięki hartowaniu i różnym dodatkom do mieszanki otrzymuje się bardzo wytrzymałe i odporne na uderzenia szkło – nawet takie, które można przełożyć prosto z zamrażalnika do piekarnika bez obaw, że popęka. Sporą zaletą szkła jest też możliwość wielokrotnego poddawania go recyklingowi bez pogarszania jego właściwości. Do przetopienia szkła z recyklingu zużywa się o wiele mniej energii niż podczas jego pierwotnej produkcji. Dlatego chcemy docelowo oferować wyłącznie szkło pochodzące z recyklingu."
+    }
+  }
+}

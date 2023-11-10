@@ -1,0 +1,43 @@
+{
+  "collection": "SOARÉ",
+  "name": "podkladka",
+  "nameToDisplay": "Podkładka",
+  "productNumber": "400.825.36",
+  "size": "37 cm",
+  "price": {
+    "integer": 19,
+    "decimal": 99
+  },
+  "variants": ["hiacynt-wodny"],
+  "variantsName": ["Hiacynt Wodny"],
+  "variant": "hiacynt-wodny",
+  "variantName": "Hiacynt Wodny",
+  "description": "Każdy produkt został wykonany ręcznie, dzięki czemu jest niepowtarzalny.",
+  "rating": {
+    "rate": 5,
+    "quantity": 270
+  },
+  "topSeller": true,
+  "thumbnails": {
+    "variant_1": "0711868_pe728538_s5.jpg"
+  },
+  "images": {
+    "main": "0711868_pe728538_s5.jpg",
+    "image_1": "0896829_pe606393_s5.jpg",
+    "hover": "0896839_pe607504_s5.jpg",
+    "image_2": "0523102_ph141076_s5.jpg",
+    "image_3": "0947715_ph173952_s5.jpg",
+    "image_4": "1062088_pe850652_s5.jpg"
+  },
+  "additionalInfo": {
+    "energy": {
+      "header": "Pięknie nakryty stół z pomocą... natury",
+      "description": "Podkładki SOARÉ wykonane są z suszonych hiacyntów wodnych, szybko rosnących roślin, które blokują cieki wodne. Wykorzystując je do wytwarzania naszych produktów, pomagamy w naturalny sposób kontrolować ich rozrost.",
+      "variant": "green"
+    },
+    "material": {
+      "header": "Czym jest hiacynt wodny?",
+      "description": "Hiacynt wodny to roślina pływająca, która w szybkim tempie porasta cieki wodne w strefie zwrotnikowej. Gdy całkowicie pokryje powierzchnię wody, blokuje dopływ światła słonecznego i zaburza bioróżnorodność środowiska wodnego. W dodatku utrudnia żeglugę miejscowym społecznościom. Aby temu zapobiec, rzeki są z niego regularnie oczyszczane. W dodatku zebrane rośliny stanowią cenny surowiec. Z łodyg hiacynta wodnego powstaje elastyczny materiał doskonale nadający się do tkania lub wyplatania niepowtarzalnych koszy, mat i innych akcesoriów wyposażenia domu."
+    }
+  }
+}
