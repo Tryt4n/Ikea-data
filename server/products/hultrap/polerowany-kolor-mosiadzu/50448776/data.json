@@ -1,0 +1,50 @@
+{
+  "collection": "HULTARP",
+  "name": "szyna",
+  "nameToDisplay": "Szyna",
+  "productNumber": "504.487.76",
+  "size": "60 cm",
+  "price": {
+    "integer": 29,
+    "decimal": 99
+  },
+  "variants": ["czarny", "niklowano", "polerowany-kolor-mosiadzu"],
+  "variantsName": ["czarny", "niklowano", "polerowany/kolor mosiądzu"],
+  "variant": "polerowany-kolor-mosiadzu",
+  "variantName": "polerowany/kolor mosiądzu",
+  "relatedProducts": {
+    "sizes": {
+      "60 cm": "50448776",
+      "80 cm": "30448777"
+    },
+    "variants": {
+      "czarny": "00448769",
+      "niklowano": "40462824",
+      "polerowany-kolor-mosiadzu": "50448776"
+    }
+  },
+  "description": "Można uwolnić miejsce na blacie wieszając przybory kuchenne na szynie",
+  "rating": {
+    "rate": 5,
+    "quantity": 84
+  },
+  "thumbnails": {
+    "variant_1": "0941870_pe795789_s5.jpg",
+    "variant_2": "0941876_pe795793_s5.jpg",
+    "variant_3": "0941879_pe795829_s5.jpg"
+  },
+  "images": {
+    "main": "0941879_pe795829_s5.jpg",
+    "imgHover": "0941415_pe795444_s5.jpg",
+    "image_1": "0941686_pe795625_s5.jpg",
+    "image_2": "0941880_pe795828_s5.jpg",
+    "image_3": "1236546_ph186104_s5.jpg"
+  },
+  "additionalInfo": [
+    {
+      "title": "Materiał",
+      "header": "Czym jest stal?",
+      "description": "Stal imponuje niecodziennymi właściwościami – można ją rozciągać i kształtować, a mimo to nie traci wytrzymałości. Bez stali trudno zbudować wieżowiec czy wyprodukować samochód. Jest też powszechnie stosowana w ramach łóżek i meblach ogrodowych. Branża wyrobów stalowych stopniowo przestawia się na tory produkcji bardziej wydajnej energetycznie i nieustannie dąży do wzmacniania wytwarzanej stali. Można ją poddawać recyklingowi bez obaw o utratę jej właściwości, dzięki czemu stal jest obecnie jednym z najczęściej trafiających do recyklingu materiałów na świecie."
+    }
+  ]
+}

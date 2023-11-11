@@ -1,0 +1,63 @@
+{
+  "collection": "KORKEN",
+  "name": "sloik-z-pokrywka",
+  "nameToDisplay": "Słoik z pokrywką",
+  "productNumber": "405.537.58",
+  "size": "1 l",
+  "price": {
+    "integer": 14,
+    "decimal": 99
+  },
+  "newTag": {
+    "variant": "orange"
+  },
+  "variants": [
+    "szklo-bezbarwne",
+    "szklo-bezbarwne-wzor-jaskrawopomaranczowy",
+    "szklo-bezbarwne-zwor-jaskrawozielony-liliowy"
+  ],
+  "variantsName": [
+    "szkło bezbarwne",
+    "szkło bezbarwne wzór/jaskrawozielony",
+    "szkło bezbarwne wzór/jaskrawozielony liliowy"
+  ],
+  "variant": "szklo-bezbarwne-zwor-jaskrawozielony-liliowy",
+  "variantName": "szkło bezbarwne wzór/jaskrawozielony liliowy",
+  "relatedProducts": {
+    "variants": {
+      "szklo-bezbarwne": "50213546",
+      "szklo-bezbarwne-wzor-jaskrawopomaranczowy": "30553645",
+      "szklo-bezbarwne-zwor-jaskrawozielony-liliowy": "40553758"
+    }
+  },
+  "description": "Seria KORKEN idealnie nadaje się do przechowywania marynat i dżemów, serwowania napojów lub zachowania chrupkości ciasteczek. Hermetyczna uszczelka zamyka wewnątrz wszystkie wartości odżywcze.",
+  "rating": {
+    "rate": 5,
+    "quantity": 1524
+  },
+  "thumbnails": {
+    "variant_1": "0713739_pe729738_s5.jpg",
+    "variant_2": "1173194_pe893854_s5.jpg",
+    "variant_3": "1173189_pe893849_s5.jpg"
+  },
+  "images": {
+    "main": "1173189_pe893849_s5.jpg",
+    "imgHover": "1173187_pe893851_s5.jpg",
+    "image_1": "1173188_pe893850_s5.jpg",
+    "image_2": "1173186_pe893848_s5.jpg"
+  },
+  "sustainableDevelopment": true,
+  "additionalInfo": [
+    {
+      "title": "Zrównoważone życie w domu",
+      "variant": "green",
+      "header": "Przechowuj przetwory zachowując ich aromat i smak",
+      "description": "Słoiki KORKEN świetnie nadają się do przechowywania dżemu, kiszonych ogórków i innych przysmaków domowej roboty. Mają szczelne zamknięcie, dzięki któremu zatrzymują wszystkie smaki i aromaty w środku. Słoiki są szklane, więc ich zawartość nie jest tajemnicą, co zwiększa szansę, że jedzenie w porę trafi do żołądka zamiast do kosza."
+    },
+    {
+      "title": "Materiał",
+      "header": "Czym jest szkło?",
+      "description": "Szkło powstaje głównie z piasku, sody i wapna stapianych ze sobą w wysokiej temperaturze. Dzięki hartowaniu i różnym dodatkom do mieszanki otrzymuje się bardzo wytrzymałe i odporne na uderzenia szkło – nawet takie, które można przełożyć prosto z zamrażalnika do piekarnika bez obaw, że popęka. Sporą zaletą szkła jest też możliwość wielokrotnego poddawania go recyklingowi bez pogarszania jego właściwości. Do przetopienia szkła z recyklingu zużywa się o wiele mniej energii niż podczas jego pierwotnej produkcji. Dlatego chcemy docelowo oferować wyłącznie szkło pochodzące z recyklingu."
+    }
+  ]
+}
