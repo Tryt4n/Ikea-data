@@ -1,0 +1,81 @@
+{
+  "collection": "MALM",
+  "name": "rama-lozka-z-2-pojemnikami",
+  "nameToDisplay": "Rama łóżka z 2 pojemnikami",
+  "productNumber": "190.129.89",
+  "size": "90x200 cm",
+  "price": {
+    "integer": 899
+  },
+  "oldPriceTag": {
+    "variant": "red",
+    "integer": 1049
+  },
+  "variants": ["bialy", "czarnobraz", "okleina-debowa-bejcowana-na-bialo"],
+  "variantsName": ["biały", "czarnobrąz", "okleina dębowa bejcowana na biało"],
+  "variant": "czarnobraz",
+  "variantName": "czarnobrąz",
+  "additionalInformation": "Dno łóżka z drewnianych listew, materac i pościel sprzedawane są oddzielnie.",
+  "relatedProducts": {
+    "sizes": {
+      "90x200 cm": "19012989",
+      "120x200 cm": "09157303"
+    },
+    "variants": {
+      "bialy": "79012991",
+      "czarnobraz": "19012989",
+      "okleina-debowa-bejcowana-na-bialo": "19139827"
+    }
+  },
+  "description": "Proste wzornictwo, równie piękne z każdej strony - łózko może stać w pokoju wolnostojąco lub z wezgłowiem przy ścianie. Zyskasz też obszerny pojemnik, który gładko wysuwa się na kółkach.",
+  "rating": {
+    "rate": 5,
+    "quantity": 119
+  },
+  "thumbnails": {
+    "variant_1": "1154404_pe886051_s5.jpg",
+    "variant_2": "1154390_pe886039_s5.jpg",
+    "variant_3": "1154391_pe886040_s5.jpg"
+  },
+  "images": {
+    "main": "1154391_pe886040_s5.jpg",
+    "video": "https://www.ikea.com/pvid/1101788_fe001841.mp4?imwidth=800",
+    "imageHover": "1101510_pe866689_s5.jpg",
+    "image_1": "1101511_pe866690_s5.jpg",
+    "image_2": "1101579_pe866753_s5.jpg",
+    "image_3": "1154405_pe886052_s5.jpg",
+    "image_4": "0860721_pe566695_s5.jpg",
+    "image_5": "0738417_pe741437_s5.jpg"
+  },
+  "additionalInfo": [
+    {
+      "title": "Historia",
+      "header": "Nasze spojrzenie na drewno",
+      "description": "Drewno to surowiec najczęściej kojarzony z meblami IKEA i nie bez powodu. Jest odnawialne, nadaje się do recyklingu, jest trwałe, pięknie się starzeje i jest ważną częścią naszego skandynawskiego dziedzictwa. W IKEA wierzymy, że drewno pozyskiwane w odpowiedzialny sposób jest kluczowym czynnikiem w łagodzeniu zmian klimatycznych. W 2012 roku postawiliśmy sobie za cel, aby do 2020 roku nasze drewno pochodziło z bardziej zrównoważonych źródeł. Z przyjemnością ogłaszamy, że osiągnęliśmy ten cel i dziś ponad 98% drewna stosowanego w produktach IKEA ma certyfikat FSC lub pochodzi z recyklingu.",
+      "backgroundImage": "1101510_pe866689_s5.jpg",
+      "additionalSections": [
+        {
+          "header": "Lasy mają kluczowe znaczenie dla życia na ziemi",
+          "description": "Lasy przyczyniają się do utrzymania równowagi w atmosferze, oczyszczają powietrze, którym oddychamy i są częścią cyklu hydrologicznego. Odżywiają bioróżnorodność dzikiej flory i fauny, zapewniają schronienie dla rdzennych społeczności, których byt zależy od lasów. 90% gatunków roślin i zwierząt żyjących na planecie potrzebuje lasów, aby przetrwać. Są one źródłem żywności, paliwa, drewna i wielu innych usług ekosystemu, od których zależymy. Pozyskując około 19 milionów m3 drewna okrągłego rocznie z około 50 krajów, IKEA ma znaczący wpływ na światowe zasoby i przemysł drzewny oraz ponosi ogromną odpowiedzialność za pozytywny wpływ na sposób pozyskiwania drewna. Odpowiedzialne pozyskiwanie drewna i gospodarka leśna zapewniają zaspokojenie potrzeb osób zależnych od lasów, prowadzenie działalności w sposób zrównoważony, ochronę ekosystemów leśnych i zwiększenie bioróżnorodności."
+        },
+        {
+          "header": "100% drewna z bardziej zrównoważonych źródeł",
+          "description": "W IKEA pracujemy według surowych standardów branżowych, aby promować odpowiedzialne leśnictwo. Nie dopuszczamy do naszego łańcucha dostaw żadnego drewna pochodzącego z obszarów leśnych, które są nielegalne lub zawierają wysokie wartości środków ochronnych lub pochodzą z obszarów leśnych objętych konfliktami społecznymi. Przed rozpoczęciem współpracy z IKEA dostawcy muszą wykazać, że spełniają kluczowe wymagania IKEA dotyczące pozyskiwania drewna. IKEA wymaga od wszystkich dostawców pozyskiwania drewna z bardziej zrównoważonych źródeł (drewno z certyfikatem FSC lub drewno z recyklingu). Wszyscy dostawcy są regularnie sprawdzani, a dostawcy niespełniający wymagań zobowiązani są do podjęcia natychmiastowych działań naprawczych. Dzięki współpracy z naszymi dostawcami możemy z dumą ogłosić, że osiągnęliśmy nasz cel dotyczący bardziej zrównoważonych źródeł, który postanowiliśmy osiągnąć do 2020 roku. Obecnie ponad 98% drewna stosowanego w produktach IKEA ma certyfikat FSC lub pochodzi z recyklingu ."
+        },
+        {
+          "header": "Pozytywny program leśny IKEA na rok 2030",
+          "description": "Ponieważ presja na światowe zasoby leśne i otaczające je ekosystemy wzrasta z powodu niezrównoważonego rolnictwa, rozbudowy infrastruktury i nielegalnego pozyskiwania drewna, nadszedł czas, aby przyjąć jeszcze bardziej holistyczne podejście do ochrony i wspierania tych ważnych zasobów dla przyszłych pokoleń. Pozytywny program leśny IKEA na rok 2030 ma na celu poprawę gospodarki leśnej, zwiększenie bioróżnorodności, łagodzenie zmian klimatycznych oraz wspieranie praw i potrzeb ludzi, którzy zależą od lasów w całym łańcuchu dostaw, a także stymulowanie innowacji w zakresie wykorzystywania drewna w jeszcze bardziej inteligentny sposób. Program skupia się na trzech kluczowych obszarach: • Uczynienie odpowiedzialnej gospodarki leśnej normą na całym świecie. • Zatrzymanie wylesiania i ponowne zalesianie zdegradowanych obszarów. • Wprowadzanie innowacji w celu wykorzystania drewna w bardziej inteligentny sposób poprzez projektowanie wszystkich produktów od samego początku pod kątem ponownego wykorzystania, odnowienia, regeneracji i ostatecznie recyklingu."
+        },
+        {
+          "header": "Współpracując osiągamy więcej",
+          "description": "IKEA od wielu lat współpracuje z firmami, rządami, grupami społecznymi i organizacjami pozarządowymi w celu zwalczania degradacji lasów i wylesiania oraz zwiększania ilości i dostępności drewna z odpowiedzialnie zarządzanych lasów, zarówno w naszym łańcuchu dostaw, jak i poza nim. Jesteśmy na drodze do poprawy globalnej gospodarki leśnej i uczynienia odpowiedzialnego pozyskiwania drewna standardem branżowym, przyczyniając się do budowania odpornych obszarów leśnych oraz poprawy bioróżnorodności."
+        }
+      ]
+    },
+    {
+      "title": "Materiał",
+      "header": "Co to jest płyta komórkowa?",
+      "description": "Używamy płyt komórkowych do produkcji wielu mebli, takich jak stoły i szafy. Płyty są lekkie, ale stabilne i mocne. Każda płyta komórkowa składa się z ramy wykonanej z płyty wiórowej, pilśniowej lub litego drewna oraz wypełnienia w formie plastra miodu, do którego używa się papieru z recyklingu. Dzięki specjalnej konstrukcji wypełnienie jest wyjątkowo wytrzymałe. Płyta komórkowa jest następnie pokrywana farbą ochronną, folią lub okleiną drewnianą, w zależności od żądanego stylu."
+    }
+  ]
+}
