@@ -1,0 +1,61 @@
+{
+  "collection": "RINNIG",
+  "name": "scierka",
+  "nameToDisplay": "Ścierka",
+  "productNumber": "604.763.54",
+  "size": "45x60 cm",
+  "price": {
+    "integer": 14,
+    "decimal": 99,
+    "quantity": 4
+  },
+  "variants": ["bialy-ciemnoszary-wzor", "bialy-zielony-wzor"],
+  "variantsName": ["biały/ciemnoszary/wzór", "biały/zielony/wzór"],
+  "variant": "bialy-zielony-wzor",
+  "variantName": "biały/zielony/wzór",
+  "relatedProducts": {
+    "variants": {
+      "bialy-ciemnoszary-wzor": "20476346",
+      "bialy-zielony-wzor": "60476354"
+    }
+  },
+  "description": "Kwadraty, kropki i zabawne przybory kuchenne ozdabiają te 4 wytrzymałe ścierki kuchenne wykonane z czystej bawełny. A ponieważ nitki są wykonane z barwionej przędzy, zachowują swój kolor – nawet po wielu praniach.",
+  "rating": {
+    "rate": 5,
+    "quantity": 752
+  },
+  "thumbnails": {
+    "variant_1": "0813216_pe772338_s5.jpg",
+    "variant_2": "0813215_pe772339_s5.jpg"
+  },
+  "images": {
+    "main": "0813215_pe772339_s5.jpg",
+    "imgHover": "0918272_pe786442_s5.jpg",
+    "image_1": "0973610_pe812071_s5.jpg",
+    "image_2": "0918274_pe786444_s5.jpg",
+    "image_3": "0918273_pe786443_s5.jpg"
+  },
+  "additionalInfo": [
+    {
+      "title": "Historia",
+      "header": "Nasze spojrzenie na bawełnę",
+      "description": "W wielu naszych produktach używamy bawełny – od sof i poduszek po pościel i materace. Jest to miękkie, trwałe i odnawialne włókno, które oddycha i dobrze pochłania wilgoć. Wszystkie te wspaniałe cechy sprawiają, że bawełna jest jednym z naszych najważniejszych surowców, ale nie dzieje się to bez wyzwań. Wiele z nich wiąże się z konwencjonalnymi metodami upraw, które mają negatywny wpływ na środowisko oraz złymi warunkami pracy dla rolników. Jako duży odbiorca chcemy napędzać zmiany w przemyśle bawełnianym.",
+      "backgroundImage": "0918274_pe786444_s5.jpg",
+      "additionalSections": [
+        {
+          "header": "Wspólna praca w celu wprowadzania zmian",
+          "description": "Każdego roku IKEA zużywa około 0,5 procent całej bawełny uprawianej na całym świecie. Może się wydawać, że to niewiele, ale liczba ta jest wystarczająco duża, aby inicjować zmiany w branży. Od wielu lat współpracujemy z partnerami i interesariuszami na całym świecie, aby przekształcić konwencjonalną uprawę bawełny na dużą skalę oraz ustanowić standardy społeczne i środowiskowe dla produkcji bawełny. Pomogliśmy na przykład założyć grupę Better Cotton Initiative (BCI), która prowadzi największy na świecie program zrównoważonego rozwoju bawełny. BCI istnieje po to, aby globalna produkcja bawełny była bardziej przyjazna dla ludzi, którzy ją produkują, dla środowiska, w którym rośnie i dla przyszłości sektora. Dziś ponad 110 000 rolników przyjęło bardziej zrównoważone praktyki rolnicze w ramach projektów IKEA."
+        },
+        {
+          "header": "Zapewnienie zgodności w całym łańcuchu wartości",
+          "description": "Wszystkie produkty IKEA są produkowane zgodnie ze standardem IKEA IWAY, naszym Kodeksem postępowania dla dostawców. Określa on minimalne standardy środowiskowe i społeczne, których oczekujemy od naszych dostawców, łącznie ze zgodnością z lokalnymi przepisami. Nie akceptujemy żadnych form pracy przymusowej, pracy dzieci ani czegokolwiek, co narusza nasze wymagania dotyczące łańcucha dostaw. Nasze zespoły zajmujące się bawełną na całym świecie gwarantują, że cała bawełna stosowana w produktach IKEA spełnia wymogi zgodności w naszym łańcuchu dostaw. Dzięki zespołom działającym w terenie, na obszarach, w których wcześniej trudno było pracować odpowiedzialnie, możemy rzucić wyzwanie tradycyjnym sposobom pracy i ulepszać branżę. Jeśli odkryjemy, że działamy w miejscach, w których nie możemy zapewnić zgodności z naszymi wymaganiami, monitorujemy sytuację na miejscu i wprowadzamy zmiany."
+        }
+      ]
+    },
+    {
+      "title": "Materiał",
+      "header": "Czym jest bawełna?",
+      "description": "Bawełna jest jednym z najbardziej cenionych i najczęściej wykorzystywanych włókien naturalnych na świecie. Tkaniny bawełniane są miękkie, wytrzymałe i można je prać w wysokich temperaturach. Dobrze też oddychają i pochłaniają wilgoć – dzięki czemu przyjemnie się je nosi blisko ciała. Obecnie w IKEA używamy coraz więcej bawełny pochodzącej z recyklingu i staramy się zapewnić, aby cała nowa bawełna, której używamy, była uprawiana i wyprodukowana przy coraz mniejszym użyciu pestycydów, nawozów i wody."
+    }
+  ]
+}

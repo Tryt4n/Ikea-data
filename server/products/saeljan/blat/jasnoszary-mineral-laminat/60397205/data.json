@@ -1,58 +1,81 @@
 {
-  "collection": "MALM",
-  "name": "rama-lozka-z-2-pojemnikami",
-  "nameToDisplay": "Rama łóżka z 2 pojemnikami",
-  "productNumber": "190.129.89",
-  "size": "90x200 cm",
+  "collection": "SÄLJAN",
+  "name": "blat",
+  "nameToDisplay": "Blat",
+  "productNumber": "603.972.05",
+  "size": "246x3.8 cm",
   "price": {
-    "integer": 899
+    "integer": 349,
+    "productSizeInMeters": 2.46
   },
-  "oldPriceTag": {
-    "variant": "red",
-    "integer": 1049
-  },
-  "variants": ["bialy", "czarnobraz", "okleina-debowa-bejcowana-na-bialo"],
-  "variantsName": ["biały", "czarnobrąz", "okleina dębowa bejcowana na biało"],
-  "variant": "czarnobraz",
-  "variantName": "czarnobrąz",
-  "additionalInformation": "Dno łóżka z drewnianych listew, materac i pościel sprzedawane są oddzielnie.",
+  "variants": [
+    "bezowy-imitacja-kamienia-laminat",
+    "bialy-jasnoszary-imitacja-kamienia-laminat",
+    "bialy-laminat",
+    "czarny-imitacja-marmuru-laminat",
+    "czarny-mineral-laminat",
+    "imit-debu-laminat",
+    "jasnoszary-mineral-laminat"
+  ],
+  "variantsName": [
+    "beżowy imitacja kamienia/laminat",
+    "biały/jasnoszary imitacja kamienia/laminat",
+    "biały/laminat",
+    "czarny imitacja marmuru/laminat",
+    "czarny minerał/laminat",
+    "imit. dębu/laminat",
+    "jasnoszary minerał/laminat"
+  ],
+  "variant": "jasnoszary-mineral-laminat",
+  "variantName": "jasnoszary minerał/laminat",
   "relatedProducts": {
     "sizes": {
-      "90x200 cm": "19012989",
-      "120x200 cm": "09157303"
+      "186x3.8 cm": "50397201",
+      "246x3.8 cm": "60397205"
     },
     "variants": {
-      "bialy": "79012991",
-      "czarnobraz": "19012989",
-      "okleina-debowa-bejcowana-na-bialo": "19139827"
+      "bezowy-imitacja-kamienia-laminat": "60439130",
+      "bialy-jasnoszary-imitacja-kamienia-laminat": "80556873",
+      "bialy-laminat": "60202217",
+      "czarny-imitacja-marmuru-laminat": "00335687",
+      "czarny-mineral-laminat": "70202212",
+      "imit-debu-laminat": "80439209",
+      "jasnoszary-mineral-laminat": "60397205"
     }
   },
-  "description": "Proste wzornictwo, równie piękne z każdej strony - łózko może stać w pokoju wolnostojąco lub z wezgłowiem przy ścianie. Zyskasz też obszerny pojemnik, który gładko wysuwa się na kółkach.",
+  "description": "Zalanie i tłuszcz łatwo można wytrzeć, a blat przez lata zachowuje swoje piękno. Wybierz spośród wielu kolorów i wzorów, aby uzyskać idealny wygląd. Dostępne od ręki.",
   "rating": {
     "rate": 5,
-    "quantity": 119
+    "quantity": 208
   },
+  "guarantee": 25,
   "thumbnails": {
-    "variant_1": "1154404_pe886051_s5.jpg",
-    "variant_2": "1154390_pe886039_s5.jpg",
-    "variant_3": "1154391_pe886040_s5.jpg"
+    "variant_1": "0808096_pe770676_s5.jpg",
+    "variant_2": "1170714_pe892911_s5.jpg",
+    "variant_3": "0373319_pe553708_s5.jpg",
+    "variant_4": "0373712_pe553599_s5.jpg",
+    "variant_5": "0315377_pe514227_s5.jpg",
+    "variant_6": "0808056_pe770665_s5.jpg",
+    "variant_7": "0656910_pe709563_s5.jpg"
   },
   "images": {
-    "main": "1154390_pe886039_s5.jpg",
-    "video": "https://www.ikea.com/pvid/1101788_fe001841.mp4?imwidth=800",
-    "imageHover": "1101510_pe866689_s5.jpg",
-    "image_1": "1101511_pe866690_s5.jpg",
-    "image_2": "1101579_pe866753_s5.jpg",
-    "image_3": "1154405_pe886052_s5.jpg",
-    "image_4": "0860721_pe566695_s5.jpg",
-    "image_5": "0738417_pe741437_s5.jpg"
+    "main": "0656910_pe709563_s5.jpg",
+    "image_1": "0869340_pe710517_s5.jpg",
+    "image_2": "0869341_pe710519_s5.jpg",
+    "imgHover": "0869337_pe710516_s5.jpg",
+    "image_3": "0869342_pe710637_s5.jpg",
+    "image_4": "0771516_ph159558_s5.jpg",
+    "image_5": "0771507_ph159557_s5.jpg",
+    "image_6": "0799376_ph164339_s5.jpg",
+    "image_7": "0799377_ph164338_s5.jpg",
+    "image_8": "1137841_pe879764_s5.jpg"
   },
   "additionalInfo": [
     {
       "title": "Historia",
       "header": "Nasze spojrzenie na drewno",
       "description": "Drewno to surowiec najczęściej kojarzony z meblami IKEA i nie bez powodu. Jest odnawialne, nadaje się do recyklingu, jest trwałe, pięknie się starzeje i jest ważną częścią naszego skandynawskiego dziedzictwa. W IKEA wierzymy, że drewno pozyskiwane w odpowiedzialny sposób jest kluczowym czynnikiem w łagodzeniu zmian klimatycznych. W 2012 roku postawiliśmy sobie za cel, aby do 2020 roku nasze drewno pochodziło z bardziej zrównoważonych źródeł. Z przyjemnością ogłaszamy, że osiągnęliśmy ten cel i dziś ponad 98% drewna stosowanego w produktach IKEA ma certyfikat FSC lub pochodzi z recyklingu.",
-      "backgroundImage": "1101510_pe866689_s5.jpg",
+      "backgroundImage": "0869340_pe710517_s5.jpg",
       "additionalSections": [
         {
           "header": "Lasy mają kluczowe znaczenie dla życia na ziemi",
@@ -74,8 +97,8 @@
     },
     {
       "title": "Materiał",
-      "header": "Co to jest płyta komórkowa?",
-      "description": "Używamy płyt komórkowych do produkcji wielu mebli, takich jak stoły i szafy. Płyty są lekkie, ale stabilne i mocne. Każda płyta komórkowa składa się z ramy wykonanej z płyty wiórowej, pilśniowej lub litego drewna oraz wypełnienia w formie plastra miodu, do którego używa się papieru z recyklingu. Dzięki specjalnej konstrukcji wypełnienie jest wyjątkowo wytrzymałe. Płyta komórkowa jest następnie pokrywana farbą ochronną, folią lub okleiną drewnianą, w zależności od żądanego stylu."
+      "header": "Czym są folia i laminat?",
+      "description": "Niektóre materiały drewnopochodne zabezpieczane są trwałą i łatwą do utrzymania w czystości folią lub laminatem. Jest to zależne od przeznaczenia produktu i rodzaju wykończenia. Do produkcji mebli do przechowywania zwykle stosujemy folię papierową, z kolei w kuchniach i łazienkach lepiej sprawdza się folia z tworzywa sztucznego. Plastik trafiający do naszych produktów pochodzi głównie z recyklingu, a naszym celem jest używanie wyłącznie tworzyw odnawialnych. Laminat, którym pokrywamy blaty, powstaje z arkuszy papieru impregnowanych żywicą, co dodaje im trwałości i czyni odpornymi na wilgoć."
     }
   ]
 }
