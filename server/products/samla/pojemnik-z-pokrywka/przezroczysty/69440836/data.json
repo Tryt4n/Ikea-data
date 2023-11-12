@@ -1,0 +1,40 @@
+{
+  "collection": "SAMLA",
+  "name": "pojemnik-z-pokrywka",
+  "nameToDisplay": "Pojemnik z pokrywką",
+  "productNumber": "694.408.36",
+  "size": "39x28x14 cm/11 l",
+  "price": {
+    "integer": 24,
+    "decimal": 99
+  },
+  "variants": ["przezroczysty"],
+  "variantsName": ["przezroczysty"],
+  "variant": "przezroczysty",
+  "variantName": "przezroczysty",
+  "relatedProducts": {
+    "sizes": {
+      "28x20x14 cm/5 l": "09440839",
+      "39x28x14 cm/11 l": "69440836",
+      "39x28x28 cm/22 l": "69440822",
+      "57x39x28 cm/45 l": "69440761",
+      "57x39x42 cm/65 l": "99440774",
+      "79x57x18 cm/55 l": "39440814",
+      "79x57x43 cm/130 l": "29440819"
+    }
+  },
+  "description": "Koniec z szukaniem przechowywanych rzeczy! Proste rozwiązanie? Pojemniki SAMLA. Przezroczyste tworzywo pokazuje, co jest w środku, dzięki czemu możesz łatwo znaleźć to, czego szukasz.",
+  "rating": {
+    "rate": 5,
+    "quantity": 468
+  },
+  "thumbnails": {
+    "variant_1": "0711814_pe728493_s5.jpg"
+  },
+  "images": {
+    "main": "0711814_pe728493_s5.jpg",
+    "image_1": "0738663_pe741515_s5.jpg",
+    "imgHover": "0910428_pe625945_s5.jpg",
+    "image_2": "1071132_pe854867_s5.jpg"
+  }
+}

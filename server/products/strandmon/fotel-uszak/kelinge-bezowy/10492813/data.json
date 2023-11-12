@@ -1,0 +1,80 @@
+{
+  "collection": "STRANDMON",
+  "name": "fotel-uszak",
+  "nameToDisplay": "Fotel uszak",
+  "productNumber": "104.928.13",
+  "size": "universal",
+  "price": {
+    "integer": 999
+  },
+  "variants": [
+    "djuparp-ciemnozielony",
+    "djuparp-czerwonobrazowy",
+    "kelinge-bezowy",
+    "nordvalla-ciemnoszary",
+    "skiftebo-zolty",
+    "vibberbo-czarny-bezowy"
+  ],
+  "variantsName": [
+    "djuparp ciemnozielony",
+    "djuparp czerwonobrązowy",
+    "kelinge beżowy",
+    "nordvalla ciemnoszary",
+    "skiftebo żółty",
+    "vibberbo czarny/beżowy"
+  ],
+  "variant": "kelinge-bezowy",
+  "variantName": "kelinge beżowy",
+  "relatedProducts": {
+    "variants": {
+      "djuparp-ciemnozielony": "80359844",
+      "djuparp-czerwonobrazowy": "20549442",
+      "kelinge-bezowy": "10492813",
+      "nordvalla-ciemnoszary": "20343224",
+      "skiftebo-zolty": "90361894",
+      "vibberbo-czarny-bezowy": "20456956"
+    }
+  },
+  "description": "Możesz się naprawdę rozluźnić i wygodnie zrelaksować, ponieważ wysokie oparcie fotela zapewnia dodatkowe podparcie dla karku.",
+  "rating": {
+    "rate": 5,
+    "quantity": 1324
+  },
+  "guarantee": 10,
+  "thumbnails": {
+    "variant_1": "0531313_pe647261_s5.jpg",
+    "variant_2": "1127697_pe876309_s5.jpg",
+    "variant_3": "0950941_pe800821_s5.jpg",
+    "variant_4": "0325432_pe517964_s5.jpg",
+    "variant_5": "0325450_pe517970_s5.jpg",
+    "variant_6": "0761768_pe751434_s5.jpg"
+  },
+  "images": {
+    "main": "0950941_pe800821_s5.jpg",
+    "imgHover": "1059566_ph179098_s5.jpg",
+    "image_1": "0950943_pe800826_s5.jpg",
+    "image_2": "0950946_pe800823_s5.jpg",
+    "image_3": "0950944_pe800824_s5.jpg",
+    "image_4": "0950945_pe800825_s5.jpg",
+    "image_7": "0963366_pe808498_s5.jpg"
+  },
+  "additionalInfo": [
+    {
+      "title": "Historia",
+      "header": "Od staroświeckiego fotela do nowoczesnego życia",
+      "description": "Czy czasami dopada Cię nostalgia? Nas tak. Dlatego stworzyliśmy fotel uszak STRANDMON. Wzór jest inspirowany fotelem IKEA z lat 50. o nazwie MK - ulubionym meblem założyciela IKEA, Ingvara Kamprada. Było on nawet na okładce naszego pierwszego katalogu. Ale jak można go odświeżyć i dostosować do obecnych wymagań? Cóż, znaleźliśmy kilka sposobów…",
+      "subDescription": "Na przykład jakość. W latach 50. większość ludzi używała foteli tylko do siedzenia. Dziś kulimy się w naszych fotelach, kładziemy nogi na podłokietnikach i jemy tam, gdzie siedzimy. Naszym meblom stawiamy wyższe wymagania. Nasz specjalista ds. rozwoju produktu Ulf Engström wyjaśnia, z czym fotel STRANDMON musi się obecnie mierzyć. - Testujemy go, aby mieć pewność, że może utrzymać osobę, która siedzi i wstaje co najmniej 50 000 razy. To tyle samo, co siadanie i wstawanie raz dziennie, przez 136 lat.",
+      "backgroundImage": "1059566_ph179098_s5.jpg",
+      "additionalSections": [
+        {
+          "header": "Teraz w częściach",
+          "description": "Celem było stworzenie wygodnego fotela, wysokiej jakości, w prawdziwie okazyjnej cenie. Na przykład Ulf i jego koledzy postanowili umieścić go w płaskim opakowaniu. - To umożliwiło uzyskanie niższej ceny i zmniejszenie emisji podczas transportu - wyjaśnia Ulf. Płaskie opakowanie sprawi też, że zabranie fotela STRANDMON do domu będzie dużo łatwiejsze, zwłaszcza dla tych, którzy nie mają samochodu, w którym zmieści się zmontowany fotel uszak."
+        },
+        {
+          "header": "Niektóre rzeczy nigdy się nie zmieniają",
+          "description": "Być może fotel uszak miał swoje złote lata dawno temu, ale kto wie, może znowu zostanie uznany za niezbędny element wyposażenie domu. - Ludzie żyją inaczej niż w latach 50-tych, ale zapotrzebowanie na niedrogie meble wysokiej jakości jest wciąż takie samo. Myślę, że jest to jeden z powodów, dla których STRANDMON jest tak popularny - mówi Ulf. Płaska paczka i niższa cena, w połączeniu z nowymi kolorami i wzorami z pewnością ułatwią większej liczbie osób znalezienie odpowiedniego miejsca dla STRANDMON w swoich domach. I oczywiście doświadczyć też zasłużonego komfortu."
+        }
+      ]
+    }
+  ]
+}

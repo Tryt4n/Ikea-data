@@ -1,0 +1,84 @@
+{
+  "collection": "EKET",
+  "name": "szafka-scienna",
+  "nameToDisplay": "Szafka ścienna",
+  "productNumber": "492.858.17",
+  "size": "35x35x35 cm",
+  "price": {
+    "integer": 80
+  },
+  "oldPriceTag": {
+    "variant": "red",
+    "integer": 105
+  },
+  "variants": [
+    "bialy",
+    "bladorozowy",
+    "bladozolty",
+    "ciemnoszary",
+    "dab-bejcowany-na-bialo",
+    "jasnoszaro-niebieski",
+    "jasnoszary",
+    "orzech",
+    "szarozielony"
+  ],
+  "variantsName": [
+    "biały",
+    "bladoróżowy",
+    "bladożółty",
+    "ciemnoszary",
+    "dąb bejcowany na biało",
+    "jasnoszaro-niebieski",
+    "jasnoszary",
+    "orzech",
+    "szarozielony"
+  ],
+  "variant": "bialy",
+  "variantName": "biały",
+  "relatedProducts": {
+    "variants": {
+      "bialy": "49285817",
+      "bladorozowy": "99429347",
+      "bladozolty": "89521365",
+      "ciemnoszary": "79285830",
+      "dab-bejcowany-na-bialo": "39286266",
+      "jasnoszaro-niebieski": "19521364",
+      "jasnoszary": "69285840",
+      "orzech": "99490274",
+      "szarozielony": "39521363"
+    }
+  },
+  "description": "Ta pomysłowa szafka EKET zawsze jest gotowa do pomocy - do przechowywania, organizowania czy opróżniania kieszeni. Wybierz intensywny kolor lub bardziej dyskretny.",
+  "rating": {
+    "rate": 5,
+    "quantity": 40
+  },
+  "thumbnails": {
+    "variant_1": "1212327_pe910600_s5.jpg",
+    "variant_2": "1016137_pe830229_s5.jpg",
+    "variant_3": "1219266_pe913334_s5.jpg",
+    "variant_4": "1212324_pe910597_s5.jpg",
+    "variant_5": "1212326_pe910599_s5.jpg",
+    "variant_6": "1219271_pe913339_s5.jpg",
+    "variant_7": "0625404_pe692249_s5.jpg",
+    "variant_8": "1132780_pe878299_s5.jpg",
+    "variant_9": "1219267_pe913335_s5.jpg"
+  },
+  "images": {
+    "main": "1212327_pe910600_s5.jpg",
+    "video": "https://www.ikea.com/pvid/0774528_fe000142.mp4?imwidth=800",
+    "imgHover": "1074370_ph183257_s5.jpg",
+    "image_1": "1060579_ph178284_s5.jpg",
+    "image_2": "1007194_pe825996_s5.jpg",
+    "image_3": "0843151_pe616267_s5.jpg",
+    "image_4": "0732079_pe738561_s5.jpg",
+    "image_5": "0631841_pe695226_s5.jpg"
+  },
+  "additionalInfo": [
+    {
+      "title": "Materiał",
+      "header": "Co to jest płyta komórkowa?",
+      "description": "Używamy płyt komórkowych do produkcji wielu mebli, takich jak stoły i szafy. Płyty są lekkie, ale stabilne i mocne. Każda płyta komórkowa składa się z ramy wykonanej z płyty wiórowej, pilśniowej lub litego drewna oraz wypełnienia w formie plastra miodu, do którego używa się papieru z recyklingu. Dzięki specjalnej konstrukcji wypełnienie jest wyjątkowo wytrzymałe. Płyta komórkowa jest następnie pokrywana farbą ochronną, folią lub okleiną drewnianą, w zależności od żądanego stylu."
+    }
+  ]
+}

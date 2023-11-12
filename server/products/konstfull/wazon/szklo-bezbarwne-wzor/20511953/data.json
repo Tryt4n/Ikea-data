@@ -1,0 +1,57 @@
+{
+  "collection": "KONSTFULL",
+  "name": "wazon",
+  "nameToDisplay": "Wazon",
+  "productNumber": "205.119.53",
+  "size": "26 cm",
+  "price": {
+    "integer": 59,
+    "decimal": 99
+  },
+  "variants": ["szklo-bezbarwne-wzor", "szklo-matowe-zielony", "zielono-brazowy", "zielony"],
+  "variantsName": ["szkło bezbarwne/wzór", "szkło matowe/zielony", "zielono-brązowy", "zielony"],
+  "variant": "szklo-bezbarwne-wzor",
+  "variantName": "szkło bezbarwne/wzór",
+  "relatedProducts": {
+    "variants": {
+      "szklo-bezbarwne-wzor": "20511953",
+      "szklo-matowe-zielony": "90511959",
+      "zielono-brazowy": "10511963",
+      "zielony": "30511962"
+    }
+  },
+  "description": "Seria KONSTFULL została zaprojektowana przez Ilse Crawford, aby każdego dnia pięknie wydobywać z kwiatów to, co najlepsze Wykonane z odpadów szkła dmuchanego – szlachetne kształty i przyjemne w dotyku materiały, które pasują do każdego wystroju.",
+  "rating": {
+    "rate": 5,
+    "quantity": 30
+  },
+  "thumbnails": {
+    "variant_1": "1030738_pe836342_s5.jpg",
+    "variant_2": "1030416_pe836271_s5.jpg",
+    "variant_3": "1030420_pe836274_s5.jpg",
+    "variant_4": "1030424_pe836277_s5.jpg"
+  },
+  "images": {
+    "main": "1030738_pe836342_s5.jpg",
+    "imgHover": "1079650_pe857633_s5.jpg",
+    "image_1": "1030740_pe836343_s5.jpg",
+    "image_2": "1079680_pe857638_s5.jpg",
+    "image_3": "1079684_pe857666_s5.jpg",
+    "image_4": "1099152_pe865626_s5.jpg"
+  },
+  "sustainableDevelopment": true,
+  "additionalInfo": [
+    {
+      "title": "Energia i zasoby naturalne",
+      "variant": "green",
+      "header": "Wstaw swoje kwiaty do wazonu ze szkła odpadowego",
+      "description": "W produkcji szkła zawsze powstają odpady, na przykład potłuczone lub pocięte kawałki. Niewiele można z tym zrobić, dlatego tym ważniejsze jest, aby szkło zostało ponownie użyte we właściwy sposób. Dlatego w wazonach KONSTFULL stosujemy szkło odpadowe. Zawierają 50-70 procent szkła z odpadów, co oznacza, że zużywamy mniej nowego surowca – a także zmniejszamy zużycie energii, ponieważ szkło odpadowe łatwiej się topi."
+    },
+    {
+      "title": "Myśli projektanta",
+      "header": "Myśli projektanta",
+      "description": "„Świeżo cięte kwiaty to prawdziwa przyjemność w domu. Dajemy je w prezencie lub układamy i starannie wybieramy ich miejsce w pomieszczeniu, aby wniosły chwile szczęścia. Kiedy projektowałam KONSTFULL, chciałam stworzyć szklane wazony, które pasują do codziennego życia i za każdym razem pięknie prezentują kwiaty. Praca ze szkłem z recyklingu ma na celu zapewnienie przyjemnego w dotyku wykończenia, przy jednoczesnym maksymalnym wykorzystaniu materiału, który otrzymał drugie życie”.",
+      "subDescription": "Projektantka Ilse Crawford"
+    }
+  ]
+}

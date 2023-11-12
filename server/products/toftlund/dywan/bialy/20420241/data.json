@@ -1,0 +1,53 @@
+{
+  "collection": "TOFTLUND",
+  "name": "dywan",
+  "nameToDisplay": "Dywan",
+  "productNumber": "204.202.41",
+  "size": "55x85 cm",
+  "topSeller": true,
+  "price": {
+    "integer": 39,
+    "decimal": 99
+  },
+  "oldPriceTag": {
+    "variant": "red",
+    "integer": 49,
+    "decimal": 99
+  },
+  "variants": ["bezowy", "bialy", "zielony"],
+  "variantsName": ["beżowy", "biały", "zielony"],
+  "variant": "bialy",
+  "variantName": "biały",
+  "relatedProducts": {
+    "variants": {
+      "bezowy": "90564518",
+      "bialy": "20420241",
+      "zielony": "30564521"
+    }
+  },
+  "description": "Super miękkia, ciepła i przytulna, niezależnie od tego, czy położysz ją na podłodze, okryjesz nią fotel czy podniesiesz komfort swojej ławy. Wygląda i przypomina skórę owczą, ale jest wykonana z przetworzonych butelek PET!",
+  "rating": {
+    "rate": 5,
+    "quantity": 377
+  },
+  "thumbnails": {
+    "variant_1": "1207869_pe908203_s5.jpg",
+    "variant_2": "0617682_pe688130_s5.jpg",
+    "variant_3": "1199097_pe904350_s5.jpg"
+  },
+  "images": {
+    "main": "0617682_pe688130_s5.jpg",
+    "image_1": "0891253_pe688129_s5.jpg",
+    "imgHover": "0891785_pe704319_s5.jpg",
+    "image_2": "0951480_ph162281_s5.jpg",
+    "image_3": "0951478_ph169312_s5.jpg",
+    "image_4": "0891782_pe688131_s5.jpg"
+  },
+  "additionalInfo": [
+    {
+      "title": "Materiał",
+      "header": "Czym jest poliester z recyklingu?",
+      "description": "Kiedy tworzymy produkty z przetworzonego poliestru, butelki PET i inne źródła poliestru zyskują nowe życie w produktach takich jak tekstylia, pudełka do przechowywania, fronty kuchenne, a nawet lampy. Używając ich, możesz cieszyć się dokładnie taką samą jakością i funkcjonalnością, jak w przypadku produktów z nowych poliestrów. Są one oczywiście pod każdym względem równie czyste i bezpieczne. A najlepsze w tym wszystkim jest to, że przyczyniasz się też do ograniczania zużycia nowych surowców."
+    }
+  ]
+}

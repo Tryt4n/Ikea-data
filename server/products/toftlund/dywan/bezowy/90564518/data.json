@@ -1,0 +1,42 @@
+{
+  "collection": "TOFTLUND",
+  "name": "dywan",
+  "nameToDisplay": "Dywan",
+  "productNumber": "905.645.18",
+  "size": "55x85 cm",
+  "newTag": {
+    "variant": "orange"
+  },
+  "price": {
+    "integer": 49,
+    "decimal": 99
+  },
+  "variants": ["bezowy", "bialy", "zielony"],
+  "variantsName": ["beżowy", "biały", "zielony"],
+  "variant": "bezowy",
+  "variantName": "beżowy",
+  "relatedProducts": {
+    "variants": {
+      "bezowy": "90564518",
+      "bialy": "20420241",
+      "zielony": "30564521"
+    }
+  },
+  "description": "Wyjątkowo miękki, ciepły i przytulny – niezależnie od tego, czy położysz go na podłodze, fotelu czy ławie dla większej wygody. Dostępny w kilku zimowych kolorach, które idealnie pasują do pledów i poszewek na poduszki SPÖKSÄCKMAL.",
+  "rating": {
+    "rate": 5,
+    "quantity": 377
+  },
+  "thumbnails": {
+    "variant_1": "1207869_pe908203_s5.jpg",
+    "variant_2": "0617682_pe688130_s5.jpg",
+    "variant_3": "1199097_pe904350_s5.jpg"
+  },
+  "images": {
+    "main": "1207869_pe908203_s5.jpg",
+    "image_1": "1211706_pe910370_s5.jpg",
+    "imgHover": "1207868_pe908204_s5.jpg",
+    "image_2": "1207866_pe908202_s5.jpg",
+    "image_3": "1207867_pe908205_s5.jpg"
+  }
+}
