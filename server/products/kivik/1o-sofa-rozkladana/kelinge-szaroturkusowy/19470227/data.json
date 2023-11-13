@@ -1,0 +1,54 @@
+{
+  "collection": "KIVIK",
+  "name": "1o-sofa-rozkladana",
+  "nameToDisplay": "1o sofa rozkładana",
+  "productNumber": "194.702.27",
+  "size": "universal",
+  "price": {
+    "integer": 1899
+  },
+  "variants": [
+    "kelinge-szaroturkusowy",
+    "tibbleby-bezowy-szary",
+    "tresund-antracyt",
+    "tresund-jasnobezowy"
+  ],
+  "variantsName": [
+    "kelinge szaroturkusowy",
+    "tibbleby beżowy/szary",
+    "tresund antracyt",
+    "tresund jasnobeżowy"
+  ],
+  "variant": "kelinge-szaroturkusowy",
+  "variantName": "kelinge szaroturkusowy",
+  "relatedProducts": {
+    "variants": {
+      "kelinge-szaroturkusowy": "19470227",
+      "tibbleby-bezowy-szary": "39470231",
+      "tresund-antracyt": "89470243",
+      "tresund-jasnobezowy": "09470237"
+    }
+  },
+  "description": "Sofa KIVIK to jeden z naszych klasyków - tutaj jako kompaktowa 1-osobowa rozkładana sofa, którą można łatwo zamienić w wygodne łóżko. Idealna do sprytnego wykorzystania powierzchni i dla gości pozostających na noc - nawet w mniejszych pomieszczeniach.",
+  "rating": {
+    "rate": 4.5,
+    "quantity": 2
+  },
+  "softnessIndex": "średnio twardy",
+  "thumbnails": {
+    "variant_1": "1130881_pe877955_s5.jpg",
+    "variant_2": "1130878_pe877951_s5.jpg",
+    "variant_3": "1130883_pe877960_s5.jpg",
+    "variant_4": "1130885_pe877959_s5.jpg"
+  },
+  "images": {
+    "main": "1130881_pe877955_s5.jpg",
+    "video": "https://www.ikea.com/pvid/1165607_fe002145.mp4?imwidth=800",
+    "image_1": "1130882_pe877956_s5.jpg",
+    "imgHover": "1165807_pe890987_s5.jpg",
+    "image_2": "1148204_ph184815_s5.jpg",
+    "image_3": "1165806_pe890958_s5.jpg",
+    "image_4": "1055820_pe848115_s5.jpg",
+    "image_5": "1208552_pe908628_s5.jpg"
+  }
+}

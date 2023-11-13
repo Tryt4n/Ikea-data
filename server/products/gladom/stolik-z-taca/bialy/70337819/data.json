@@ -1,0 +1,57 @@
+{
+  "collection": "GLADOM",
+  "name": "stolik-z-taca",
+  "nameToDisplay": "Stolik z tacą",
+  "productNumber": "703.378.19",
+  "size": "45x53 cm",
+  "price": {
+    "integer": 69,
+    "decimal": 99
+  },
+  "oldPriceTag": {
+    "variant": "red",
+    "integer": "89",
+    "decimal": 99
+  },
+  "variants": ["bialy", "ciemny-szaro-bezowy", "czarny", "czerwony"],
+  "variantsName": ["biały", "ciemny szaro-beżowy", "czarny", "czerwony"],
+  "variant": "bialy",
+  "variantName": "biały",
+  "relatedProducts": {
+    "variants": {
+      "bialy": "70337819",
+      "ciemny-szaro-bezowy": "30513763",
+      "czarny": "50411990",
+      "czerwony": "00533649"
+    }
+  },
+  "description": "Zdejmowaną tacę można wykorzystać do serwowania.",
+  "rating": {
+    "rate": 5,
+    "quantity": 177
+  },
+  "thumbnails": {
+    "variant_1": "0470732_pe612912_s5.jpg",
+    "variant_2": "0998388_pe823016_s5.jpg",
+    "variant_3": "0567223_pe664991_s5.jpg",
+    "variant_4": "0568691_pe665565_s5.jpg"
+  },
+  "images": {
+    "main": "0470732_pe612912_s5.jpg",
+    "imgHover": "0836821_pe709866_s5.jpg",
+    "image_1": "0733581_ph152596_s5.jpg",
+    "image_2": "0709546_ph152945_s5.jpg",
+    "image_3": "0733531_ph153300_s5.jpg",
+    "image_4": "0709849_ph153191_s5.jpg",
+    "image_5": "0731682_pe738389_s5.jpg",
+    "image_6": "0836819_pe617310_s5.jpg",
+    "image_7": "0475197_pe615469_s5.jpg"
+  },
+  "additionalInfo": [
+    {
+      "title": "Materiał",
+      "header": "Czym jest stal?",
+      "description": "Stal imponuje niecodziennymi właściwościami – można ją rozciągać i kształtować, a mimo to nie traci wytrzymałości. Bez stali trudno zbudować wieżowiec czy wyprodukować samochód. Jest też powszechnie stosowana w ramach łóżek i meblach ogrodowych. Branża wyrobów stalowych stopniowo przestawia się na tory produkcji bardziej wydajnej energetycznie i nieustannie dąży do wzmacniania wytwarzanej stali. Można ją poddawać recyklingowi bez obaw o utratę jej właściwości, dzięki czemu stal jest obecnie jednym z najczęściej trafiających do recyklingu materiałów na świecie."
+    }
+  ]
+}
