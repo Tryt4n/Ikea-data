@@ -1591,10 +1591,9 @@
           "variant": "dark",
           "link": "#"
         },
-        "imgSrc": "/images/for_business/office_amsyms_ar_16_9,c_fill,g_auto__c_scale,w_1600.avif",
-        "imgSrcSet": "/images/for_business/office_amsyms_ar_16_9,c_fill,g_auto__c_scale,w_320.avif 320w, /images/for_business/office_amsyms_ar_16_9,c_fill,g_auto__c_scale,w_1285.avif 1285w, /images/for_business/office_amsyms_ar_16_9,c_fill,g_auto__c_scale,w_1520.avif 1520w, /images/for_business/office_amsyms_ar_16_9,c_fill,g_auto__c_scale,w_1600.avif 1600w",
-        "src": "/images/organization_ideas/organization_wnguvj_ar_16_9,c_fill,g_auto__c_scale,w_1600.avif",
-        "imgSizes": "(max-width: 2667px) 60vw, 1600px",
+        "imgSrc": "https://www.ikea.com/images/bd/12/bd129a92b8b17885aab7c046f3bd5a5a.jpg?f=s",
+        "imgSrcSet": "https://www.ikea.com/images/bd/12/bd129a92b8b17885aab7c046f3bd5a5a.jpg?f=sg 1600w, https://www.ikea.com/images/bd/12/bd129a92b8b17885aab7c046f3bd5a5a.jpg?f=xxxl 1400w, https://www.ikea.com/images/bd/12/bd129a92b8b17885aab7c046f3bd5a5a.jpg?f=xxl 950w, https://www.ikea.com/images/bd/12/bd129a92b8b17885aab7c046f3bd5a5a.jpg?f=xl 800w, https://www.ikea.com/images/bd/12/bd129a92b8b17885aab7c046f3bd5a5a.jpg?f=l 750w, https://www.ikea.com/images/bd/12/bd129a92b8b17885aab7c046f3bd5a5a.jpg?f=m 600w, https://www.ikea.com/images/bd/12/bd129a92b8b17885aab7c046f3bd5a5a.jpg?f=s 500w, https://www.ikea.com/images/bd/12/bd129a92b8b17885aab7c046f3bd5a5a.jpg?f=xs 400w, https://www.ikea.com/images/bd/12/bd129a92b8b17885aab7c046f3bd5a5a.jpg?f=xxs 300w, https://www.ikea.com/images/bd/12/bd129a92b8b17885aab7c046f3bd5a5a.jpg?f=xxxs 240w",
+        "imgSizes": "(min-width: 56.25em) 40vw, 90vw",
         "imgAlt": "Office",
         "imgAspectRatioMobile": "3/4"
       }
@@ -1610,7 +1609,8 @@
           {
             "id": "1SBQZ9W8Y1",
             "img": {
-              "imgSrc": "/images/scrollbars/instagram_photos/1/UGC100009357.avif",
+              "imgSrc": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009357/s.avif",
+              "imgSrcSet": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009357/xxxs.avif 240w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009357/xxs.avif 300w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009357/xs.avif 400w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009357/s.avif 500w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009357/m.avif 600w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009357/l.avif 750w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009357/xl.avif 800w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009357/xxl.avif 950w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009357/xxxl.avif 1400w",
               "imgAlt": "Zdjęcie użytkownika AdventureSoul82",
               "imgAspectRatio": "3/4"
             },
@@ -1640,7 +1640,8 @@
           {
             "id": "T13DST073N",
             "img": {
-              "imgSrc": "/images/scrollbars/instagram_photos/2/UGC100008730.avif",
+              "imgSrc": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008730/s.avif",
+              "imgSrcSet": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008730/xxxs.avif 240w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008730/xxs.avif 300w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008730/xs.avif 400w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008730/s.avif 500w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008730/m.avif 600w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008730/l.avif 750w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008730/xl.avif 800w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008730/xxl.avif 950w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008730/xxxl.avif 1400w",
               "imgAlt": "Zdjęcie użytkownika FashionistaGlobe",
               "imgAspectRatio": "3/4"
             },
@@ -1731,7 +1732,8 @@
           {
             "id": "7JADVDLGTR",
             "img": {
-              "imgSrc": "/images/scrollbars/instagram_photos/3/UGC100009307.avif",
+              "imgSrc": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009307/s.avif",
+              "imgSrcSet": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009307/xxxs.avif 240w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009307/xxs.avif 300w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009307/xs.avif 400w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009307/s.avif 500w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009307/m.avif 600w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009307/l.avif 750w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009307/xl.avif 800w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009307/xxl.avif 950w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009307/xxxl.avif 1400w",
               "imgAlt": "Zdjęcie użytkownika TechGeniusNinja",
               "imgAspectRatio": "3/4"
             },
@@ -1760,7 +1762,8 @@
           {
             "id": "2IEZ0N14A3",
             "img": {
-              "imgSrc": "/images/scrollbars/instagram_photos/4/UGC100026647.avif",
+              "imgSrc": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100026647/s.avif",
+              "imgSrcSet": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100026647/xxxs.avif 240w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100026647/xxs.avif 300w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100026647/xs.avif 400w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100026647/s.avif 500w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100026647/m.avif 600w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100026647/l.avif 750w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100026647/xl.avif 800w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100026647/xxl.avif 950w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100026647/xxxl.avif 1400w",
               "imgAlt": "Zdjęcie użytkownika FitnessFervor365",
               "imgAspectRatio": "3/4"
             },
@@ -1790,7 +1793,8 @@
           {
             "id": "VSLZSMV2RQ",
             "img": {
-              "imgSrc": "/images/scrollbars/instagram_photos/5/UGC100007426.avif",
+              "imgSrc": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100007426/s.avif",
+              "imgSrcSet": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100007426/xxxs.avif 240w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100007426/xxs.avif 300w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100007426/xs.avif 400w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100007426/s.avif 500w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100007426/m.avif 600w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100007426/l.avif 750w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100007426/xl.avif 800w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100007426/xxl.avif 950w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100007426/xxxl.avif 1400w",
               "imgAlt": "Zdjęcie użytkownika ArtisticVoyager",
               "imgAspectRatio": "3/4"
             },
@@ -1874,7 +1878,8 @@
           {
             "id": "2SNSDMLWZ1",
             "img": {
-              "imgSrc": "/images/scrollbars/instagram_photos/6/UGC100009091.avif",
+              "imgSrc": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009091/s.avif",
+              "imgSrcSet": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009091/xxxs.avif 240w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009091/xxs.avif 300w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009091/xs.avif 400w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009091/s.avif 500w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009091/m.avif 600w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009091/l.avif 750w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009091/xl.avif 800w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009091/xxl.avif 950w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100009091/xxxl.avif 1400w",
               "imgAlt": "Zdjęcie użytkownika MusicMaven88",
               "imgAspectRatio": "3/4"
             },
@@ -1925,7 +1930,8 @@
           {
             "id": "N0QTBT1W97",
             "img": {
-              "imgSrc": "/images/scrollbars/instagram_photos/7/UGC100008065.avif",
+              "imgSrc": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008065/s.avif",
+              "imgSrcSet": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008065/xxxs.avif 240w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008065/xxs.avif 300w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008065/xs.avif 400w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008065/s.avif 500w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008065/m.avif 600w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008065/l.avif 750w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008065/xl.avif 800w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008065/xxl.avif 950w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008065/xxxl.avif 1400w",
               "imgAlt": "Zdjęcie użytkownika FoodieExplorer",
               "imgAspectRatio": "3/4"
             },
@@ -1984,7 +1990,8 @@
           {
             "id": "OFYDMWJVLO",
             "img": {
-              "imgSrc": "/images/scrollbars/instagram_photos/8/UGC100019561.avif",
+              "imgSrc": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100019561/s.avif",
+              "imgSrcSet": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100019561/xxxs.avif 240w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100019561/xxs.avif 300w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100019561/xs.avif 400w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100019561/s.avif 500w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100019561/m.avif 600w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100019561/l.avif 750w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100019561/xl.avif 800w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100019561/xxl.avif 950w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100019561/xxxl.avif 1400w",
               "imgAlt": "Zdjęcie użytkownika WanderlustDreamer",
               "imgAspectRatio": "3/4"
             },
@@ -2091,7 +2098,8 @@
           {
             "id": "ELZ90Q9PO7",
             "img": {
-              "imgSrc": "/images/scrollbars/instagram_photos/9/UGC100008853.avif",
+              "imgSrc": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008853/s.avif",
+              "imgSrcSet": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008853/xxxs.avif 240w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008853/xxs.avif 300w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008853/xs.avif 400w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008853/s.avif 500w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008853/m.avif 600w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008853/l.avif 750w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008853/xl.avif 800w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008853/xxl.avif 950w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008853/xxxl.avif 1400w",
               "imgAlt": "Zdjęcie użytkownika NatureNurturer",
               "imgAspectRatio": "3/4"
             },
@@ -2120,7 +2128,8 @@
           {
             "id": "U9QKIQ1CRI",
             "img": {
-              "imgSrc": "/images/scrollbars/instagram_photos/10/UGC100007970.avif",
+              "imgSrc": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100007970/s.avif",
+              "imgSrcSet": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100007970/xxxs.avif 240w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100007970/xxs.avif 300w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100007970/xs.avif 400w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100007970/s.avif 500w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100007970/m.avif 600w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100007970/l.avif 750w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100007970/xl.avif 800w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100007970/xxl.avif 950w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100007970/xxxl.avif 1400w",
               "imgAlt": "Zdjęcie użytkownika BookwormChic",
               "imgAspectRatio": "3/4"
             },
@@ -2198,7 +2207,8 @@
           {
             "id": "ESCFPNBK22",
             "img": {
-              "imgSrc": "/images/scrollbars/instagram_photos/11/UGC100008111.avif",
+              "imgSrc": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008111/s.avif",
+              "imgSrcSet": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008111/xxxs.avif 240w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008111/xxs.avif 300w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008111/xs.avif 400w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008111/s.avif 500w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008111/m.avif 600w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008111/l.avif 750w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008111/xl.avif 800w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008111/xxl.avif 950w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008111/xxxl.avif 1400w",
               "imgAlt": "Zdjęcie użytkownika SportsJunkie365",
               "imgAspectRatio": "3/4"
             },
@@ -2322,7 +2332,8 @@
           {
             "id": "MMDDW2BU8T",
             "img": {
-              "imgSrc": "/images/scrollbars/instagram_photos/12/UGC100008954.avif",
+              "imgSrc": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008954/s.avif",
+              "imgSrcSet": "https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008954/xxxs.avif 240w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008954/xxs.avif 300w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008954/xs.avif 400w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008954/s.avif 500w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008954/m.avif 600w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008954/l.avif 750w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008954/xl.avif 800w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008954/xxl.avif 950w, https://raw.githubusercontent.com/Tryt4n/Ikea-data/main/server/images/instagram-photos/UGC100008954/xxxl.avif 1400w",
               "imgAlt": "Zdjęcie użytkownika ThrillSeekerElite",
               "imgAspectRatio": "3/4"
             },
