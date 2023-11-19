@@ -1274,7 +1274,7 @@
             "descriptionPlacement": "top-center",
             "productHeading": "SKÅLBODA",
             "productSubHeading": "Fotel",
-            "productLink": "#",
+            "productLink": "/products/skalboda/fotel/pomaranczowy/40555309",
             "productPriceInteger": 249
           },
           {
@@ -1292,7 +1292,7 @@
             "descriptionPlacement": "right-center",
             "productHeading": "TUVKORNELL",
             "productSubHeading": "Świeczniki, 3 szt.",
-            "productLink": "#",
+            "productLink": "/products/tuvkornell/swieczniki-3-szt/pomaranczowy/80554384",
             "productPriceInteger": 39,
             "productPriceDecimal": 99
           },
@@ -1311,7 +1311,7 @@
             "descriptionPlacement": "bottom-left",
             "productHeading": "HAVSFJÄDER",
             "productSubHeading": "Klosz lampy wiszącej",
-            "productLink": "#",
+            "productLink": "/products/havsfjaeder/klosz-lampy-wiszacej/bialy/70555100",
             "productPriceInteger": 149
           },
           {
@@ -1329,7 +1329,7 @@
             "descriptionPlacement": "top-left",
             "productHeading": "JÄRLÅSA",
             "productSubHeading": "Stolik na kółkach",
-            "productLink": "#",
+            "productLink": "products/jaerlasa/stolik-na-kolkach/bialy/00554383",
             "productPriceInteger": 179
           },
           {
@@ -1346,7 +1346,7 @@
             "descriptionPlacement": "top-left",
             "productHeading": "JÄRLÅSA",
             "productSubHeading": "Stolik na kółkach",
-            "productLink": "#",
+            "productLink": "products/jaerlasa/stolik-na-kolkach/czerwony/00555274",
             "productPriceInteger": 179,
             "hideOnMobile": true
           },
@@ -1365,7 +1365,7 @@
             "descriptionPlacement": "top-center",
             "productHeading": "SVEDJENÄVA",
             "productSubHeading": "Poszewka",
-            "productLink": "#",
+            "productLink": "products/svedjenaeva/poszewka/wielobarwny-ciemny/20556338",
             "productPriceInteger": 24,
             "productPriceDecimal": 99
           }
