@@ -1,0 +1,38 @@
+{
+  "collection": "SVEDJENÄVA",
+  "name": "poszewka",
+  "nameToDisplay": "Poszewka",
+  "productNumber": "205.563.38",
+  "size": "50x50 cm",
+  "price": {
+    "integer": 24,
+    "decimal": 99
+  },
+  "newTag": { "variant": "orange" },
+  "variants": ["wielobarwny-ciemny"],
+  "variantsName": ["wielobarwny, ciemny"],
+  "variant": "wielobarwny-ciemny",
+  "variantName": "wielobarwny, ciemny",
+  "description": "Kolorowy wzór „Alfi” zaprojektowany przez Svena Fristedta pojawił się po raz pierwszy w naszym katalogu już w 1971 r. Równie kolorowy, jak teraz. Kolejna ikona IKEA, która zyskała nowe życie w kolekcji Nytillverkad.",
+  "rating": {
+    "rate": 5,
+    "quantity": 1
+  },
+  "thumbnails": {
+    "variant_1": "1180510_pe896353_s5.jpg"
+  },
+  "images": {
+    "main": "1180510_pe896353_s5.jpg",
+    "hover": "1272545_ph194868_s5.jpg",
+    "image_1": "1203336_pe906284_s5.jpg",
+    "image_2": "1203337_pe906283_s5.jpg"
+  },
+  "additionalInfo": [
+    {
+      "title": "Myśli projektanta",
+      "header": "Myśli projektanta",
+      "description": "„Kiedy zaczynałem współpracę z IKEA w 1965 roku, wzorzyste projekty od razu wydały mi się czymś niezwykle ekscytującym. Od samego początku stawiałem na liście – małe i duże. Odpowiada mi to, bo nie lubię prostych linii. Wiele przyjemności sprawia mi też krojenie materiału, ponieważ zwykle otrzymuje się wtedy zaokrąglone kształty. Tworzenie jest moim sposobem na życie. A możliwość zobaczenia swoich projektów w nowej kolorystyce na tekstyliach z kolekcji Nytillverkad to naprawdę świetna sprawa”.",
+      "subDescription": "Projektant Sven Fristedt"
+    }
+  ]
+}

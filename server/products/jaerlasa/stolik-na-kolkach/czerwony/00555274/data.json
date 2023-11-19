@@ -1,0 +1,43 @@
+{
+  "collection": "JÄRLÅSA",
+  "name": "stolik-na-kolkach",
+  "nameToDisplay": "Stolik na kółkach",
+  "productNumber": "005.552.74",
+  "size": "65x45 cm",
+  "price": {
+    "integer": 179
+  },
+  "newTag": { "variant": "orange" },
+  "variants": ["bialy", "czerwony"],
+  "variantsName": ["biały", "czerwony"],
+  "variant": "czerwony",
+  "variantName": "czerwony",
+  "description": "Stolik na kółkach JÄRLÅSA jest równie praktyczny teraz, co w 1984 roku, gdy został zaprojektowany przez Nielsa Gammelgaarda. Wtedy nosił nazwę HOFF. Kolejna ikona IKEA, która zyskała nowe życie w kolekcji Nytillverkad.",
+  "relatedProducts": {
+    "variants": {
+      "bialy": "00554383",
+      "czerwony": "00555274"
+    }
+  },
+  "rating": {
+    "rate": 5,
+    "quantity": 2
+  },
+  "thumbnails": {
+    "variant_1": "1197936_pe903824_s5.jpg"
+  },
+  "images": {
+    "main": "1197936_pe903824_s5.jpg",
+    "hover": "1272527_ph194870_s5.jpg",
+    "image_1": "1197940_pe903825_s5.jpg",
+    "image_2": "1197939_pe903826_s5.jpg",
+    "image_3": "1203235_pe906274_s5.jpg"
+  },
+  "additionalInfo": [
+    {
+      "title": "Myśli projektanta",
+      "header": "Myśli projektanta",
+      "description": "Nieduży, solidny i łatwy do odstawienia na bok. Stolik JÄRLÅSA na kółkach został pierwotnie stworzony przez Nielsa Gammelgaarda, duńskiego projektanta wzornictwa przemysłowego, i pojawił się w katalogu IKEA w 1984 roku pod nazwą HOFF. Do jego produkcji wykorzystano wtedy blaty pochodzące z recyklingu, a dzięki zawiasom można było go łatwo złożyć. Teraz, gdy powraca w kolekcji Nytillverkad, otrzymał zamiast tego metalowe rurki i nakrętki motylkowe. Nadal jest składany, ale stał się odrobinę bezpieczniejszy. Wzmocniona konstrukcja potrafi utrzymać obciążenie nawet do 100 kg!"
+    }
+  ]
+}

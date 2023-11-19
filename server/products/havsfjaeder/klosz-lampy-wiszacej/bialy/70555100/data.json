@@ -1,0 +1,34 @@
+{
+  "collection": "HAVSFJÄDER",
+  "name": "klosz-lampy-wiszacej",
+  "nameToDisplay": "Klosz lampy wiszącej",
+  "productNumber": "705.551.00",
+  "size": "42 cm",
+  "price": {
+    "integer": 149
+  },
+  "newTag": { "variant": "orange" },
+  "variants": ["bialy"],
+  "variantsName": ["biały"],
+  "variant": "bialy",
+  "variantName": "biały",
+  "description": "Część kolekcji Nytillverkad, w której kilka klasyków IKEA pojawia się w nowych odsłonach.",
+  "additionalInformation": "Żarówka sprzedawana jest oddzielnie. Oprawa z kablem HEMMA sprzedawana jest oddzielnie.",
+  "thumbnails": {
+    "variant_1": "1204196_pe906630_s5.jpg"
+  },
+  "images": {
+    "main": "1204196_pe906630_s5.jpg",
+    "hover": "1272515_ph194874_s5.jpg",
+    "image_1": "1272512_ph194873_s5.jpg",
+    "image_2": "1204194_pe906632_s5.jpg"
+  },
+  "additionalInfo": [
+    {
+      "title": "Myśli projektanta",
+      "header": "Myśli projektanta",
+      "description": "Bent Gantzel-Boysen w latach 1979–1987 zaprojektował dla IKEA kilka różnych modeli lamp. Jego pierwszym dziełem była lampa wisząca CIRKEL, która wraca teraz do sprzedaży w ramach kolekcji Nytillverkad jako klosz lampy wiszącej HAVSFJÄDER. Bent był człowiekiem skromnym, któremu nie zależało na zdobywaniu nagród i udziale w uroczystych galach. Jednak w katalogach IKEA jego nazwisko zajmuje dumne miejsce tuż obok jego genialnych projektów. To dla nas prawdziwy zaszczyt, że mieliśmy okazję z nim współpracować.",
+      "subDescription": "Projektant Bent Gantzel-Boysen"
+    }
+  ]
+}

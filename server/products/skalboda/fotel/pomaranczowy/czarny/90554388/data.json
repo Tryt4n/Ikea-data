@@ -1,0 +1,42 @@
+{
+  "collection": "SKÅLBODA",
+  "name": "fotel",
+  "nameToDisplay": "Fotel",
+  "productNumber": "905.543.88",
+  "size": "universal",
+  "price": {
+    "integer": 249
+  },
+  "newTag": { "variant": "orange" },
+  "variants": ["czarny", "pomaranczowy"],
+  "variantsName": ["czarny", "pomarańczowy"],
+  "variant": "czarny",
+  "variantName": "czarny",
+  "description": "Fotel SKÅLBODA o zaokrąglonych kształtach został zaprojektowany przez Nielsa Gammelgaarda już w 1983 roku. Wtedy nosił nazwę JÄRPEN. Kolejna ikona IKEA w nowej kolorystycznej odsłonie w kolekcji Nytillverkad.",
+  "relatedProducts": {
+    "variants": {
+      "czarny": "90554388",
+      "pomaranczowy": "40555309"
+    }
+  },
+  "rating": {
+    "rate": 5,
+    "quantity": 1
+  },
+  "thumbnails": {
+    "variant_1": "1180834_pe896474_s5.jpg"
+  },
+  "images": {
+    "main": "1180834_pe896474_s5.jpg",
+    "hover": "1272536_ph194862_s5.jpg",
+    "image_1": "1180501_pe896352_s5.jpg",
+    "image_2": "1180500_pe896351_s5.jpg"
+  },
+  "additionalInfo": [
+    {
+      "title": "Myśli projektanta",
+      "header": "Myśli projektanta",
+      "description": "Na początku lat 80. Ingvar Kamprad poprosił Nielsa Gammelgaarda, duńskiego projektanta wzornictwa przemysłowego, by stworzył fotel, którego produkcja byłaby najtańsza na świecie – miał być pozbawiony obicia tapicerskiego czy wypełnienia. W portfolio Nielsa znajdował się już metalowy fotel z otworami, więc Ingvar zasugerował, żeby powiększyć te otwory i przez to zmniejszyć ilość potrzebnego materiału o jedną trzecią. Podziałało! Tak narodził się fotel JÄRPEN, a teraz ten ponadczasowy klasyk powraca w ramach kolekcji Nytillverkad pod nową nazwą – SKÅLBODA."
+    }
+  ]
+}

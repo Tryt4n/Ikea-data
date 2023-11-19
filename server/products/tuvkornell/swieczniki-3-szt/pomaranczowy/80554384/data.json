@@ -1,0 +1,39 @@
+{
+  "collection": "TUVKORNELL",
+  "name": "swieczniki-3-szt",
+  "nameToDisplay": "Świeczniki, 3 szt.",
+  "productNumber": "805.543.84",
+  "size": "universal",
+  "price": {
+    "integer": 39,
+    "decimal": 99
+  },
+  "newTag": { "variant": "orange" },
+  "variants": ["pomaranczowy"],
+  "variantsName": ["pomarańczowy"],
+  "variant": "pomaranczowy",
+  "variantName": "pomarańczowy",
+  "description": "Trzy świeczniki TUVKORNELL zostały zaprojektowane przez Marianne i Knuta Hagberg już w 1982 roku. Wówczas nosiły nazwę CYLINDER. Kolejna ikona IKEA w nowej kolorystycznej odsłonie w kolekcji Nytillverkad.",
+  "rating": {
+    "rate": 5,
+    "quantity": 1
+  },
+  "thumbnails": {
+    "variant_1": "1197963_pe903833_s5.jpg"
+  },
+  "images": {
+    "main": "1197963_pe903833_s5.jpg",
+    "hover": "1272481_ph194898_s5.jpg",
+    "image_1": "1272485_ph194872_s5.jpg",
+    "image_2": "1197962_pe903834_s5.jpg",
+    "image_3": "1203197_pe906265_s5.jpg"
+  },
+  "additionalInfo": [
+    {
+      "title": "Myśli projektanta",
+      "header": "Myśli projektanta",
+      "description": "„Pomysł na stworzenie tych świeczników pojawił się w trakcie wizyty u dostawcy wytwarzającego metalowe meble. Zobaczyliśmy tam sporo poprodukcyjnych resztek materiału, które przecież można było wykorzystać. Wobec tego naszkicowaliśmy prosty walec obciążony u dołu dla większej stabilności. Zestaw trzech świeczników CYLINDER pojawił się w katalogu IKEA na rok 1982 i od tego czasu kilkukrotnie wracał do oferty. Tym razem świeczniki otrzymały nazwę TUVKORNELL i stały się częścią kolekcji Nytillverkad. Mamy nadzieję, że rozświetlą jeszcze więcej domów”.",
+      "subDescription": "Projektanci Knut i Marianne Hagberg"
+    }
+  ]
+}
